@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "e1b1c0f7f171ce4e01f087d2733a1185",
+      "shape": "image",
+      "image": ".\\data\\com.tencent.mm\\screenshots\\screen_2024-11-04_191525.png",
+      "label": "LauncherUI\n<FIRST>",
+      "package": "com.tencent.mm",
+      "activity": ".ui.LauncherUI",
+      "state_str": "e1b1c0f7f171ce4e01f087d2733a1185",
+      "description": null,
+      "font": "14px Arial red"
+    },
+    {
+      "id": "5efd63cb8222da83b29260dfef303c85",
+      "shape": "image",
+      "image": ".\\data\\com.tencent.mm\\screenshots\\screen_2024-11-04_191536.png",
+      "label": "LauncherUI\n<LAST>",
+      "package": "com.tencent.mm",
+      "activity": ".ui.LauncherUI",
+      "state_str": "5efd63cb8222da83b29260dfef303c85",
+      "description": null,
+      "font": "14px Arial red"
+    }
+  ],
+  "edges": [
+    {
+      "from": "e1b1c0f7f171ce4e01f087d2733a1185",
+      "to": "5efd63cb8222da83b29260dfef303c85",
+      "id": "e1b1c0f7f171ce4e01f087d2733a1185-->5efd63cb8222da83b29260dfef303c85",
+      "label": "1",
+      "events": [
+        {
+          "event_str": "TouchEvent(state=e1b1c0f7f171ce4e01f087d2733a1185, view=792bc86a109de4ecf8dc4cd5bb6b7f31(.ui.LauncherUI/LinearLayout-))",
+          "event_id": 1,
+          "event_type": "touch",
+          "view_images": [
+            ".\\data\\com.tencent.mm\\views\\view_792bc86a109de4ecf8dc4cd5bb6b7f31.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "num_nodes": 2,
+  "num_edges": 1,
+  "num_effective_events": 1,
+  "num_reached_activities": 0,
+  "test_date": "2024-11-04 19:15:26",
+  "num_transitions": 1
+}
