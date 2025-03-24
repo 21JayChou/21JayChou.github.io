@@ -1,0 +1,393 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_share",
+    "content_desc": "Share",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically representing an overflow menu. It consists of three vertically aligned dots in a dark color.",
+      "function": "The component likely opens an overflow menu with additional options related to the news content displayed on the page."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Full Coverage",
+    "bounds": [
+      144,
+      220,
+      401,
+      270
+    ],
+    "id_bounds": [
+      144,
+      185,
+      169,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "Renewable energy sources",
+    "bounds": [
+      61,
+      298,
+      848,
+      368
+    ],
+    "id_bounds": [
+      61,
+      263,
+      86,
+      298
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "account for 47% of EU",
+    "bounds": [
+      57,
+      376,
+      713,
+      436
+    ],
+    "id_bounds": [
+      57,
+      341,
+      82,
+      376
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "electricity",
+    "bounds": [
+      57,
+      454,
+      362,
+      520
+    ],
+    "id_bounds": [
+      57,
+      419,
+      82,
+      454
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "European Commission",
+      "Electricity from renewable sources reaches 47% in 2024",
+      "20 hours ago"
+    ],
+    "content_desc": [
+      "20 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      610,
+      1080,
+      1015
+    ],
+    "id_bounds": [
+      0,
+      575,
+      25,
+      610
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "20 hours ago"
+    ],
+    "content_desc": [
+      "20 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      888,
+      1080,
+      1015
+    ],
+    "id_bounds": [
+      53,
+      853,
+      78,
+      888
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      904,
+      1080,
+      999
+    ],
+    "id_bounds": [
+      987,
+      869,
+      1012,
+      904
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically representing a menu or more options. It is black in color and located at the top right corner of the article.",
+      "function": "Open a menu with additional options for the article, such as removing from saved stories, sharing, going to the source website, sending feedback, and reporting content."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "European Commission",
+      "Electricity from renewable sources reaches 47% in 2024",
+      "18 hours ago"
+    ],
+    "content_desc": [
+      "18 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1015,
+      1080,
+      1420
+    ],
+    "id_bounds": [
+      0,
+      980,
+      50,
+      1015
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "18 hours ago"
+    ],
+    "content_desc": [
+      "18 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1293,
+      1080,
+      1420
+    ],
+    "id_bounds": [
+      53,
+      1258,
+      103,
+      1293
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1309,
+      1080,
+      1404
+    ],
+    "id_bounds": [
+      987,
+      1274,
+      1037,
+      1309
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Informed Comment",
+      "European CO2 Emissions keep Plummeting, as 47% of Electricity is Green",
+      "5 days ago"
+    ],
+    "content_desc": [
+      "5 days ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1420,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1385,
+      50,
+      1420
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "5 days ago"
+    ],
+    "content_desc": [
+      "5 days ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1698,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      53,
+      1663,
+      103,
+      1698
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1714,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      987,
+      1679,
+      1037,
+      1714
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

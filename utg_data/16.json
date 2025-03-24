@@ -1,0 +1,73 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Back",
+    "bounds": [
+      0,
+      73,
+      126,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located on the left side of the search bar. It has a simple design with a single line forming the arrowhead pointing to the left.",
+      "function": "The function of this component is to navigate back to the previous page. By clicking on it, the user returns from the search page to the main news content display page."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/open_search_view_edit_text"
+    ],
+    "text": [
+      "Search for topics, locations & sources"
+    ],
+    "bounds": [
+      126,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 2,
+    "class": "EditText",
+    "resource_id": "com.google.android.apps.magazines:id/open_search_view_edit_text",
+    "text": "Search for topics, locations & sources",
+    "bounds": [
+      126,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a search bar with placeholder text 'Search for topics, locations & sources'. It has a rectangular shape and is filled with light gray color. The text inside the search bar is in dark blue.",
+      "function": "The component allows users to input search queries related to topics, locations, and sources. After typing in the search bar, the app displays relevant search results on the screen."
+    }
+  }
+]

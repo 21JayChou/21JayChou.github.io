@@ -1,0 +1,563 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Following",
+    "bounds": [
+      412,
+      115,
+      666,
+      181
+    ],
+    "id_bounds": [
+      412,
+      80,
+      437,
+      115
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Recentlyfollowed",
+    "bounds": [
+      54,
+      328,
+      310,
+      356
+    ],
+    "id_bounds": [
+      54,
+      293,
+      79,
+      328
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular icon with a bookshelf symbol and the label 'Saved Stories'. It is located in the 'Recently followed' section.",
+      "function": "This component allows the user to access their saved stories. Clicking on it likely navigates to a page where all the saved stories are displayed."
+    }
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Library"
+    ],
+    "bounds": [
+      48,
+      378,
+      258,
+      656
+    ],
+    "id_bounds": [
+      48,
+      343,
+      73,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Saved Stories"
+    ],
+    "bounds": [
+      258,
+      378,
+      468,
+      656
+    ],
+    "id_bounds": [
+      258,
+      343,
+      283,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "The Daily Mash"
+    ],
+    "bounds": [
+      468,
+      378,
+      678,
+      656
+    ],
+    "id_bounds": [
+      468,
+      343,
+      493,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "The Digital Fix"
+    ],
+    "bounds": [
+      678,
+      378,
+      888,
+      656
+    ],
+    "id_bounds": [
+      678,
+      343,
+      703,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "Button",
+    "content_desc": "MetalTalk",
+    "bounds": [
+      0,
+      735,
+      1080,
+      925
+    ],
+    "id_bounds": [
+      0,
+      700,
+      25,
+      735
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/cluster_follow_button",
+    "content_desc": "Unfollow",
+    "bounds": [
+      933,
+      788,
+      1017,
+      872
+    ],
+    "id_bounds": [
+      933,
+      753,
+      958,
+      788
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Sisters Doll | MetalTalk - Heavy Metal News, Reviews and Interviews",
+      "2 days ago"
+    ],
+    "content_desc": [
+      "2 days ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      925,
+      1080,
+      1204
+    ],
+    "id_bounds": [
+      0,
+      890,
+      50,
+      925
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2 days ago"
+    ],
+    "content_desc": [
+      "2 days ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1077,
+      1080,
+      1204
+    ],
+    "id_bounds": [
+      53,
+      1042,
+      103,
+      1077
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1093,
+      1080,
+      1188
+    ],
+    "id_bounds": [
+      987,
+      1058,
+      1037,
+      1093
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically used to indicate more options or settings. It is gray in color and located at the bottom right of each entry on the 'Following' page.",
+      "function": "When clicked, it opens a menu with various options related to the selected publication, such as 'Save for later', 'Share', 'Go to MetalTalk', 'Hide all stories from MetalTalk', 'Send feedback', 'Report content', and 'More stories like this'."
+    }
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Hannah Grae | MetalTalk - Heavy Metal News, Reviews and Interviews",
+      "15 hours ago"
+    ],
+    "content_desc": [
+      "15 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1204,
+      1080,
+      1483
+    ],
+    "id_bounds": [
+      0,
+      1169,
+      50,
+      1204
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located on the right side of the article title 'Hannah Grae | MetalTalk - Heavy Metal News, Reviews and Interviews'. It is circular with three vertical dots in a gray color.",
+      "function": "The component likely opens a menu with additional options related to the article, such as sharing, bookmarking, or accessing other settings."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "15 hours ago"
+    ],
+    "content_desc": [
+      "15 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1356,
+      1080,
+      1483
+    ],
+    "id_bounds": [
+      53,
+      1321,
+      103,
+      1356
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1372,
+      1080,
+      1467
+    ],
+    "id_bounds": [
+      987,
+      1337,
+      1037,
+      1372
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "LEAP | MetalTalk - Heavy Metal News, Reviews and Interviews",
+      "15 hours ago"
+    ],
+    "content_desc": [
+      "15 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1483,
+      1080,
+      1762
+    ],
+    "id_bounds": [
+      0,
+      1448,
+      50,
+      1483
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1651,
+      1080,
+      1746
+    ],
+    "id_bounds": [
+      987,
+      1616,
+      1037,
+      1651
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a tab labeled 'Newsstand' with an icon resembling a stack of newspapers. It is located at the bottom navigation bar and is highlighted in blue, indicating it is currently active.",
+      "function": "The component switches the view from the 'Following' page to the 'Newsstand' page, which displays a variety of news and entertainment sources organized into categories for easy browsing."
+    }
+  }
+]

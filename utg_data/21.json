@@ -1,0 +1,302 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Che New Jork Cimes",
+    "bounds": [
+      214,
+      188,
+      872,
+      274
+    ],
+    "id_bounds": [
+      214,
+      153,
+      239,
+      188
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "Politics"
+    ],
+    "content_desc": [
+      "Politics"
+    ],
+    "bounds": [
+      0,
+      311,
+      169,
+      437
+    ],
+    "id_bounds": [
+      0,
+      276,
+      25,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "New York"
+    ],
+    "content_desc": [
+      "New York"
+    ],
+    "bounds": [
+      169,
+      311,
+      421,
+      437
+    ],
+    "id_bounds": [
+      169,
+      276,
+      194,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "text": [
+      "Opinion"
+    ],
+    "content_desc": [
+      "Opinion"
+    ],
+    "bounds": [
+      660,
+      311,
+      884,
+      437
+    ],
+    "id_bounds": [
+      660,
+      276,
+      685,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "text": [
+      "Technology"
+    ],
+    "content_desc": [
+      "Technology"
+    ],
+    "bounds": [
+      884,
+      311,
+      1080,
+      437
+    ],
+    "id_bounds": [
+      884,
+      276,
+      909,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Business",
+    "bounds": [
+      460,
+      356,
+      620,
+      396
+    ],
+    "id_bounds": [
+      460,
+      321,
+      485,
+      356
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "San Francisco Giants Sells Stake to Private Equity Firm Sixth Street",
+      "28 minutes ago"
+    ],
+    "content_desc": [
+      "28 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      490,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      0,
+      455,
+      25,
+      490
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "28 minutes ago"
+    ],
+    "content_desc": [
+      "28 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1200,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      53,
+      1165,
+      103,
+      1200
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the top right corner of the screen. It is circular with three vertical dots in a gray color.",
+      "function": "The component likely opens a menu with additional options or settings related to the article or the app's functionality."
+    }
+  },
+  {
+    "node_id": 11,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1216,
+      1080,
+      1311
+    ],
+    "id_bounds": [
+      987,
+      1181,
+      1037,
+      1216
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1391,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1356,
+      50,
+      1391
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

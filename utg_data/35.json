@@ -1,0 +1,316 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Webpage not available",
+    "bounds": [
+      22,
+      254,
+      657,
+      314
+    ],
+    "id_bounds": [
+      22,
+      219,
+      47,
+      254
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "The webpage at https://www.youtube.com/watch?",
+    "bounds": [
+      22,
+      376,
+      963,
+      422
+    ],
+    "id_bounds": [
+      22,
+      341,
+      47,
+      376
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "v=NoQxRr2jRaQ could not be loaded because:",
+    "bounds": [
+      18,
+      426,
+      889,
+      470
+    ],
+    "id_bounds": [
+      18,
+      391,
+      43,
+      426
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "net::ERR_CONNECTION_CLOSED",
+    "bounds": [
+      18,
+      516,
+      629,
+      558
+    ],
+    "id_bounds": [
+      18,
+      481,
+      43,
+      516
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "https://www.youtube.com/watch?v=N0QxRr2jRaQ",
+    "bounds": [
+      64,
+      730,
+      885,
+      770
+    ],
+    "id_bounds": [
+      64,
+      695,
+      89,
+      730
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      819,
+      1080,
+      945
+    ],
+    "id_bounds": [
+      0,
+      784,
+      25,
+      819
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      819,
+      518,
+      945
+    ],
+    "id_bounds": [
+      287,
+      784,
+      312,
+      819
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      819,
+      793,
+      945
+    ],
+    "id_bounds": [
+      560,
+      784,
+      585,
+      819
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Funny Vines: HE FELL OFF THE",
+    "bounds": [
+      105,
+      1046,
+      834,
+      1092
+    ],
+    "id_bounds": [
+      105,
+      1011,
+      130,
+      1046
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "MONKEYBARSIFUNNY FAILS",
+    "bounds": [
+      107,
+      1110,
+      820,
+      1150
+    ],
+    "id_bounds": [
+      107,
+      1075,
+      132,
+      1110
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      222,
+      1402,
+      860,
+      1442
+    ],
+    "id_bounds": [
+      222,
+      1367,
+      272,
+      1402
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      359,
+      1821,
+      449,
+      1863
+    ],
+    "id_bounds": [
+      359,
+      1786,
+      409,
+      1821
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      66,
+      1824,
+      197,
+      1858
+    ],
+    "id_bounds": [
+      66,
+      1789,
+      116,
+      1824
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      599,
+      1824,
+      751,
+      1862
+    ],
+    "id_bounds": [
+      599,
+      1789,
+      649,
+      1824
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      905,
+      1826,
+      983,
+      1856
+    ],
+    "id_bounds": [
+      905,
+      1791,
+      955,
+      1826
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "ve to Drive",
+    "bounds": [
+      895,
+      1868,
+      1044,
+      1902
+    ],
+    "id_bounds": [
+      895,
+      1833,
+      945,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

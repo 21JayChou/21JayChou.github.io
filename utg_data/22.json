@@ -1,0 +1,172 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      25,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a button with the text 'Full Coverage' and an icon that resembles a grid or chart. It is encased in a rounded rectangle with a light background and a thin border.",
+      "function": "The component likely triggers the loading of detailed content related to the news article, as indicated by the transition from a loading page to a page displaying full content about renewable energy sources."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      711,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a share icon, represented by a horizontal line with two circles on either side, resembling a network or sharing symbol. It is black in color.",
+      "function": "The share icon is used to initiate the sharing of content from the app. Upon clicking, it likely opens a sharing menu or dialog where the user can choose different platforms or methods to share the content."
+    }
+  },
+  {
+    "node_id": 4,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      837,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      963,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      963,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

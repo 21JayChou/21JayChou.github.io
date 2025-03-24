@@ -1,0 +1,256 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/drawer_scrim",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page",
+      "Go to Funny Vines",
+      "Send feedback",
+      "Report content"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "Close"
+    ],
+    "bounds": [
+      0,
+      1100,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1065,
+      25,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1137,
+      812,
+      1263
+    ],
+    "id_bounds": [
+      686,
+      1102,
+      711,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1137,
+      938,
+      1263
+    ],
+    "id_bounds": [
+      812,
+      1102,
+      837,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button"
+    ],
+    "content_desc": [
+      "Close"
+    ],
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a black 'X' icon located at the bottom right corner of the error message pop-up.",
+      "function": "Close the error message pop-up."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/close_button",
+    "content_desc": "Close",
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      25,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to Funny Vines"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      25,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      25,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      25,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

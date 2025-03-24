@@ -1,0 +1,192 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Google Account",
+    "bounds": [
+      141,
+      106,
+      530,
+      170
+    ],
+    "id_bounds": [
+      141,
+      71,
+      166,
+      106
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "Past profile pictures",
+    "bounds": [
+      593,
+      138,
+      971,
+      186
+    ],
+    "id_bounds": [
+      593,
+      103,
+      618,
+      138
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Profile picture",
+    "bounds": [
+      39,
+      220,
+      405,
+      278
+    ],
+    "id_bounds": [
+      39,
+      185,
+      64,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Birthday settings",
+    "bounds": [
+      595,
+      264,
+      911,
+      310
+    ],
+    "id_bounds": [
+      595,
+      229,
+      620,
+      264
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "A picture helps people recogni",
+    "bounds": [
+      40,
+      316,
+      558,
+      356
+    ],
+    "id_bounds": [
+      40,
+      281,
+      65,
+      316
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "when you're signed in to your e",
+    "bounds": [
+      36,
+      366,
+      562,
+      410
+    ],
+    "id_bounds": [
+      36,
+      331,
+      61,
+      366
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Help",
+    "bounds": [
+      589,
+      387,
+      686,
+      439
+    ],
+    "id_bounds": [
+      589,
+      352,
+      614,
+      387
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Send feedback",
+    "bounds": [
+      596,
+      518,
+      876,
+      558
+    ],
+    "id_bounds": [
+      596,
+      483,
+      621,
+      518
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "可",
+    "bounds": [
+      405,
+      908,
+      689,
+      1206
+    ],
+    "id_bounds": [
+      405,
+      873,
+      430,
+      908
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": " Add profile picture",
+    "bounds": [
+      335,
+      1684,
+      727,
+      1730
+    ],
+    "id_bounds": [
+      335,
+      1649,
+      360,
+      1684
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

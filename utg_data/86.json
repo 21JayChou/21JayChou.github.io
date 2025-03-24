@@ -1,0 +1,545 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a magnifying glass icon, which is black in color and located at the top left corner of the screen.",
+      "function": "Initiates a search function, allowing users to input search queries related to topics, locations, and sources."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Google News",
+    "bounds": [
+      379,
+      114,
+      699,
+      176
+    ],
+    "id_bounds": [
+      379,
+      79,
+      404,
+      114
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "content_desc": "Top stories",
+    "bounds": [
+      0,
+      231,
+      1080,
+      383
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "The Guardian",
+      "Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’",
+      "1h"
+    ],
+    "content_desc": [
+      "1 hour ago",
+      "View Full Coverage for Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      383,
+      1080,
+      781
+    ],
+    "id_bounds": [
+      0,
+      348,
+      25,
+      383
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "1h"
+    ],
+    "content_desc": [
+      "1 hour ago",
+      "View Full Coverage for Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      665,
+      1080,
+      781
+    ],
+    "id_bounds": [
+      53,
+      630,
+      78,
+      665
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for Ukraine war briefing: Trump ‘wants Zaporizhzhia power plant for US’",
+    "bounds": [
+      876,
+      670,
+      971,
+      765
+    ],
+    "id_bounds": [
+      876,
+      635,
+      901,
+      670
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      670,
+      1080,
+      765
+    ],
+    "id_bounds": [
+      987,
+      635,
+      1012,
+      670
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Al Jazeera English",
+      "China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "2h"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      781,
+      1080,
+      1179
+    ],
+    "id_bounds": [
+      0,
+      746,
+      25,
+      781
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2h"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1063,
+      1080,
+      1179
+    ],
+    "id_bounds": [
+      53,
+      1028,
+      78,
+      1063
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+    "bounds": [
+      876,
+      1068,
+      971,
+      1163
+    ],
+    "id_bounds": [
+      876,
+      1033,
+      926,
+      1068
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1068,
+      1080,
+      1163
+    ],
+    "id_bounds": [
+      987,
+      1033,
+      1037,
+      1068
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Al Jazeera English",
+      "Greenpeace must pay $660m to oil company over pipeline protests, jury says",
+      "2h"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "View Full Coverage for Greenpeace must pay $660m to oil company over pipeline protests, jury says",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1179,
+      1080,
+      1577
+    ],
+    "id_bounds": [
+      0,
+      1144,
+      50,
+      1179
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2h"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "View Full Coverage for Greenpeace must pay $660m to oil company over pipeline protests, jury says",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1461,
+      1080,
+      1577
+    ],
+    "id_bounds": [
+      53,
+      1426,
+      103,
+      1461
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a thumbnail image with a red and white color scheme, featuring the flags of Canada and China. It is rectangular in shape and located on the right side of the news article.",
+      "function": "The component is a clickable thumbnail that, when clicked, attempts to open a detailed news article from Al Jazeera English about the execution of dual Canadian citizens by China. However, the action resulted in an error page indicating that the webpage could not be loaded due to an unreachable address."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for Greenpeace must pay $660m to oil company over pipeline protests, jury says",
+    "bounds": [
+      876,
+      1466,
+      971,
+      1561
+    ],
+    "id_bounds": [
+      876,
+      1431,
+      926,
+      1466
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1466,
+      1080,
+      1561
+    ],
+    "id_bounds": [
+      987,
+      1431,
+      1037,
+      1466
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a star icon with the label 'Following' below it. The icon is black and white, and the text is in a simple, sans-serif font.",
+      "function": "The component is a navigation tab that switches the view from the main news feed to the 'Following' section, where users can see content from sources they have followed."
+    }
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content"
+    ],
+    "bounds": [
+      0,
+      1755,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1720,
+      50,
+      1755
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

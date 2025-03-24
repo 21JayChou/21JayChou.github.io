@@ -1,0 +1,504 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Headlines",
+    "bounds": [
+      409,
+      116,
+      671,
+      176
+    ],
+    "id_bounds": [
+      409,
+      81,
+      434,
+      116
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "可",
+    "bounds": [
+      977,
+      128,
+      1014,
+      162
+    ],
+    "id_bounds": [
+      977,
+      93,
+      1002,
+      128
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/og_header_close_button",
+    "content_desc": "Close",
+    "bounds": [
+      42,
+      242,
+      189,
+      389
+    ],
+    "id_bounds": [
+      42,
+      207,
+      67,
+      242
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Google",
+    "bounds": [
+      436,
+      273,
+      640,
+      347
+    ],
+    "id_bounds": [
+      436,
+      238,
+      461,
+      273
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_view",
+      "com.google.android.apps.magazines:id/account_avatar_container",
+      "com.google.android.apps.magazines:id/account_avatar",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view",
+      "com.google.android.apps.magazines:id/og_primary_account_information",
+      "com.google.android.apps.magazines:id/og_secondary_account_information",
+      "com.google.android.apps.magazines:id/og_trailing_drawable_container",
+      "com.google.android.apps.magazines:id/og_collapsed_chevron"
+    ],
+    "text": [
+      "刘可",
+      "250618328@qq.com"
+    ],
+    "content_desc": [
+      "Change profile picture.",
+      "Signed in as 刘可 250618328@qq.com",
+      "Expand account list."
+    ],
+    "bounds": [
+      63,
+      389,
+      1017,
+      568
+    ],
+    "id_bounds": [
+      63,
+      354,
+      88,
+      389
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/account_avatar",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Change profile picture."
+    ],
+    "bounds": [
+      84,
+      410,
+      231,
+      547
+    ],
+    "id_bounds": [
+      84,
+      375,
+      109,
+      410
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a circular icon with a pink background and a white character in the center. There is a smaller circular icon with a camera symbol at the bottom right corner of the main circle.",
+      "function": "This component allows the user to access the profile picture setting for their Google Account. Clicking on it opens a page where the user can add or change their profile picture."
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/my_account_chip"
+    ],
+    "text": [
+      "Manage your Google Account"
+    ],
+    "bounds": [
+      63,
+      568,
+      1017,
+      694
+    ],
+    "id_bounds": [
+      63,
+      533,
+      88,
+      568
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/my_account_chip",
+    "text": "Manage your Google Account",
+    "bounds": [
+      242,
+      568,
+      828,
+      694
+    ],
+    "id_bounds": [
+      242,
+      533,
+      267,
+      568
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_card",
+      "com.google.android.apps.magazines:id/og_card_content_root",
+      "com.google.android.apps.magazines:id/og_text_card_root",
+      "com.google.android.apps.magazines:id/og_full_text_card_root",
+      "com.google.android.apps.magazines:id/og_text_card_icon",
+      "com.google.android.apps.magazines:id/og_text_card_title",
+      "com.google.android.apps.magazines:id/og_text_card_trail_title_image"
+    ],
+    "text": [
+      "Recommended actions"
+    ],
+    "content_desc": [
+      "Important account alert"
+    ],
+    "bounds": [
+      63,
+      694,
+      1017,
+      821
+    ],
+    "id_bounds": [
+      63,
+      659,
+      88,
+      694
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_card",
+      "com.google.android.apps.magazines:id/og_card_content_root",
+      "com.google.android.apps.magazines:id/og_text_card_root",
+      "com.google.android.apps.magazines:id/og_full_text_card_root",
+      "com.google.android.apps.magazines:id/og_text_card_icon",
+      "com.google.android.apps.magazines:id/og_text_card_title"
+    ],
+    "text": [
+      "Notifications"
+    ],
+    "bounds": [
+      63,
+      826,
+      1017,
+      953
+    ],
+    "id_bounds": [
+      63,
+      791,
+      88,
+      826
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_card",
+      "com.google.android.apps.magazines:id/og_card_content_root",
+      "com.google.android.apps.magazines:id/og_text_card_root",
+      "com.google.android.apps.magazines:id/og_full_text_card_root",
+      "com.google.android.apps.magazines:id/og_text_card_icon",
+      "com.google.android.apps.magazines:id/og_text_card_title"
+    ],
+    "text": [
+      "My Activity"
+    ],
+    "bounds": [
+      63,
+      953,
+      1017,
+      1080
+    ],
+    "id_bounds": [
+      63,
+      918,
+      113,
+      953
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_card",
+      "com.google.android.apps.magazines:id/og_card_content_root",
+      "com.google.android.apps.magazines:id/og_text_card_root",
+      "com.google.android.apps.magazines:id/og_full_text_card_root",
+      "com.google.android.apps.magazines:id/og_text_card_icon",
+      "com.google.android.apps.magazines:id/og_text_card_title"
+    ],
+    "text": [
+      "News settings"
+    ],
+    "bounds": [
+      0,
+      1080,
+      1080,
+      1207
+    ],
+    "id_bounds": [
+      0,
+      1045,
+      50,
+      1080
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular button with a gear icon on the left and the text 'News settings' next to it. The background is white, and the text is black.",
+      "function": "The component allows users to access the news settings menu where they can customize various options such as alerts, notifications, languages & regions of interest, dark theme, mini cards, sources & topics they see less of, and data saver mode."
+    }
+  },
+  {
+    "node_id": 12,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_card",
+      "com.google.android.apps.magazines:id/og_card_content_root",
+      "com.google.android.apps.magazines:id/og_text_card_root",
+      "com.google.android.apps.magazines:id/og_full_text_card_root",
+      "com.google.android.apps.magazines:id/og_text_card_icon",
+      "com.google.android.apps.magazines:id/og_text_card_title"
+    ],
+    "text": [
+      "Help & feedback"
+    ],
+    "bounds": [
+      0,
+      1207,
+      1080,
+      1334
+    ],
+    "id_bounds": [
+      0,
+      1172,
+      50,
+      1207
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/og_privacy_policy_button",
+      "com.google.android.apps.magazines:id/og_separator1",
+      "com.google.android.apps.magazines:id/og_tos_button"
+    ],
+    "text": [
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "bounds": [
+      163,
+      1334,
+      917,
+      1460
+    ],
+    "id_bounds": [
+      163,
+      1299,
+      213,
+      1334
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/og_privacy_policy_button",
+    "text": "Privacy Policy",
+    "bounds": [
+      226,
+      1334,
+      492,
+      1460
+    ],
+    "id_bounds": [
+      226,
+      1299,
+      276,
+      1334
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/og_tos_button",
+    "text": "Terms of Service",
+    "bounds": [
+      542,
+      1334,
+      854,
+      1460
+    ],
+    "id_bounds": [
+      542,
+      1299,
+      592,
+      1334
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "☆",
+    "bounds": [
+      651,
+      1664,
+      699,
+      1710
+    ],
+    "id_bounds": [
+      651,
+      1629,
+      701,
+      1664
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "Following",
+    "bounds": [
+      597,
+      1725,
+      751,
+      1775
+    ],
+    "id_bounds": [
+      597,
+      1690,
+      647,
+      1725
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "Headlines",
+    "bounds": [
+      327,
+      1726,
+      485,
+      1772
+    ],
+    "id_bounds": [
+      327,
+      1691,
+      377,
+      1726
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "For you",
+    "bounds": [
+      73,
+      1729,
+      197,
+      1777
+    ],
+    "id_bounds": [
+      73,
+      1694,
+      123,
+      1729
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "OCRText",
+    "text": "Newsstand",
+    "bounds": [
+      862,
+      1732,
+      1030,
+      1768
+    ],
+    "id_bounds": [
+      862,
+      1697,
+      912,
+      1732
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

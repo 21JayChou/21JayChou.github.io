@@ -1,0 +1,652 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "content_desc": "Sky Sports",
+    "bounds": [
+      42,
+      210,
+      346,
+      270
+    ],
+    "id_bounds": [
+      42,
+      175,
+      67,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "SpOrtS Home > Formula 1",
+    "bounds": [
+      153,
+      218,
+      681,
+      268
+    ],
+    "id_bounds": [
+      153,
+      183,
+      178,
+      218
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "Home",
+    "bounds": [
+      364,
+      220,
+      475,
+      265
+    ],
+    "id_bounds": [
+      364,
+      185,
+      389,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Formula 1",
+    "bounds": [
+      511,
+      220,
+      682,
+      265
+    ],
+    "id_bounds": [
+      511,
+      185,
+      536,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Eddie Jordan: Former F1 team",
+    "bounds": [
+      48,
+      396,
+      937,
+      450
+    ],
+    "id_bounds": [
+      48,
+      361,
+      73,
+      396
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "owner dies aged 76",
+    "bounds": [
+      44,
+      482,
+      625,
+      542
+    ],
+    "id_bounds": [
+      44,
+      447,
+      69,
+      482
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Eddie Jordan has passed away at the age of",
+    "bounds": [
+      44,
+      596,
+      1015,
+      646
+    ],
+    "id_bounds": [
+      44,
+      561,
+      69,
+      596
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "76; Jordan had an F1 team for 15 seasons,",
+    "bounds": [
+      42,
+      664,
+      955,
+      716
+    ],
+    "id_bounds": [
+      42,
+      629,
+      67,
+      664
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "winning four races: Irishman recentlv",
+    "bounds": [
+      42,
+      738,
+      856,
+      778
+    ],
+    "id_bounds": [
+      42,
+      703,
+      92,
+      738
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Before continuing to Sky Sports",
+    "bounds": [
+      48,
+      824,
+      794,
+      876
+    ],
+    "id_bounds": [
+      48,
+      789,
+      98,
+      824
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "content_desc": "partners",
+    "bounds": [
+      383,
+      918,
+      511,
+      960
+    ],
+    "id_bounds": [
+      383,
+      883,
+      433,
+      918
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Sky and its 140 trusted partners need your permission to store and",
+    "bounds": [
+      50,
+      920,
+      1007,
+      962
+    ],
+    "id_bounds": [
+      50,
+      885,
+      100,
+      920
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "access cookies, unique identifiers, personal data, and information on",
+    "bounds": [
+      54,
+      960,
+      1022,
+      994
+    ],
+    "id_bounds": [
+      54,
+      925,
+      104,
+      960
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "your browsing behaviour on this device. This only applies to Sky Sports.",
+    "bounds": [
+      52,
+      992,
+      1050,
+      1032
+    ],
+    "id_bounds": [
+      52,
+      957,
+      102,
+      992
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "You can change your preferences at any time via the Privacy Options",
+    "bounds": [
+      52,
+      1028,
+      1022,
+      1068
+    ],
+    "id_bounds": [
+      52,
+      993,
+      102,
+      1028
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "link in the page footer. If you choose Essential cookies only, we won't",
+    "bounds": [
+      48,
+      1058,
+      1021,
+      1104
+    ],
+    "id_bounds": [
+      48,
+      1023,
+      98,
+      1058
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "use cookies or personal data to show you personalised adverts, but",
+    "bounds": [
+      50,
+      1096,
+      1011,
+      1136
+    ],
+    "id_bounds": [
+      50,
+      1061,
+      100,
+      1096
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "you'll still see non-personalised and contextual adverts. Where you are",
+    "bounds": [
+      52,
+      1134,
+      1048,
+      1168
+    ],
+    "id_bounds": [
+      52,
+      1099,
+      102,
+      1134
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "OCRText",
+    "text": "a Sky customer, we may personalise adverts and content by using Sky",
+    "bounds": [
+      52,
+      1172,
+      1036,
+      1206
+    ],
+    "id_bounds": [
+      52,
+      1137,
+      102,
+      1172
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "OCRText",
+    "text": "account and product information which we hold about you. Find out",
+    "bounds": [
+      54,
+      1204,
+      1014,
+      1238
+    ],
+    "id_bounds": [
+      54,
+      1169,
+      104,
+      1204
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "OCRText",
+    "text": "more about how your data is used below:",
+    "bounds": [
+      50,
+      1240,
+      635,
+      1276
+    ],
+    "id_bounds": [
+      50,
+      1205,
+      100,
+      1240
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "Button",
+    "text": "Accept all",
+    "bounds": [
+      52,
+      1325,
+      1031,
+      1428
+    ],
+    "id_bounds": [
+      52,
+      1290,
+      102,
+      1325
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "Button",
+    "text": "Essential cookies only",
+    "bounds": [
+      52,
+      1441,
+      1031,
+      1546
+    ],
+    "id_bounds": [
+      52,
+      1406,
+      102,
+      1441
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "Button",
+    "text": "View options",
+    "bounds": [
+      52,
+      1556,
+      1031,
+      1659
+    ],
+    "id_bounds": [
+      52,
+      1521,
+      102,
+      1556
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 26,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 27,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 28,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 29,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 30,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 31,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "bounds": [
+      53,
+      1679,
+      422,
+      1784
+    ],
+    "id_bounds": [
+      53,
+      1644,
+      103,
+      1679
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

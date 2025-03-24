@@ -1,0 +1,371 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located at the top left corner of the screen.",
+      "function": "Navigate back to the previous page"
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "text": "How do you know?",
+    "bounds": [
+      464,
+      170,
+      884,
+      246
+    ],
+    "id_bounds": [
+      464,
+      135,
+      489,
+      170
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "Log in Log in",
+    "bounds": [
+      546,
+      307,
+      664,
+      425
+    ],
+    "id_bounds": [
+      546,
+      272,
+      571,
+      307
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Search Search",
+    "bounds": [
+      798,
+      307,
+      916,
+      425
+    ],
+    "id_bounds": [
+      798,
+      272,
+      823,
+      307
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a search bar with a magnifying glass icon, typically used for initiating a search function. It is rectangular in shape and has a light background color with a dark border. The text inside the search bar prompts the user to 'Enter search term'.",
+      "function": "The component allows users to type in keywords or phrases to search for specific content within the app. After typing, the search is initiated by pressing the enter key or the search icon, leading to a page displaying search results related to the entered terms."
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "content_desc": "Home (Eurostat)",
+    "bounds": [
+      42,
+      338,
+      538,
+      393
+    ],
+    "id_bounds": [
+      42,
+      303,
+      67,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "content_desc": "Home",
+    "bounds": [
+      42,
+      527,
+      157,
+      588
+    ],
+    "id_bounds": [
+      42,
+      492,
+      67,
+      527
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a back arrow icon located in the top left corner of the screen. It is black and white with a simple, angular design.",
+      "function": "The component functions as a back button, allowing the user to navigate back to the previous page or section within the app."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "content_desc": "News",
+    "bounds": [
+      225,
+      527,
+      336,
+      588
+    ],
+    "id_bounds": [
+      225,
+      492,
+      250,
+      527
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow located in the top left corner of the screen. It is white and has a simple, standard back arrow shape.",
+      "function": "Navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "content_desc": "News articles",
+    "bounds": [
+      406,
+      527,
+      664,
+      588
+    ],
+    "id_bounds": [
+      406,
+      492,
+      431,
+      527
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 10,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 11,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a share icon, depicted as two interconnected circles with a curved arrow between them. It is black in color and has a simple, flat design.",
+      "function": "The share icon is used to initiate the sharing of content from the news article page. Upon clicking, it opens a sharing interface where the user can choose different methods to share the article, such as via Bluetooth, Gmail, Messages, or Drive."
+    }
+  },
+  {
+    "node_id": 12,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 13,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically representing a menu or more options. It is black and consists of three vertically aligned dots.",
+      "function": "Open a menu with additional options related to the news article, such as viewing the original web page, going to the European Commission, sending feedback, and reporting content."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "bounds": [
+      53,
+      1679,
+      422,
+      1784
+    ],
+    "id_bounds": [
+      53,
+      1644,
+      103,
+      1679
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  }
+]

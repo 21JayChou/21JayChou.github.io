@@ -1,0 +1,40 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Search",
+    "bounds": [
+      492,
+      368,
+      590,
+      398
+    ],
+    "id_bounds": [
+      492,
+      333,
+      517,
+      368
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "口",
+    "bounds": [
+      852,
+      1708,
+      899,
+      1756
+    ],
+    "id_bounds": [
+      852,
+      1673,
+      877,
+      1708
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  }
+]

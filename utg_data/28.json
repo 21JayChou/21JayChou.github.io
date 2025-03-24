@@ -1,0 +1,246 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/touch_outside",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/checkbox_group",
+      "com.google.android.apps.magazines:id/BadContentReport_misleading",
+      "com.google.android.apps.magazines:id/BadContentReport_hateful",
+      "com.google.android.apps.magazines:id/BadContentReport_violent",
+      "com.google.android.apps.magazines:id/BadContentReport_sexual",
+      "com.google.android.apps.magazines:id/BadContentReport_spam",
+      "com.google.android.apps.magazines:id/BadContentReport_other"
+    ],
+    "text": [
+      "Misleading or sensational",
+      "Hateful or abusive",
+      "Violent or repulsive",
+      "Sexual or explicit",
+      "Spam or scam",
+      "Other"
+    ],
+    "bounds": [
+      63,
+      599,
+      1017,
+      1439
+    ],
+    "id_bounds": [
+      63,
+      564,
+      88,
+      599
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_misleading",
+    "text": "Misleading or sensational",
+    "bounds": [
+      63,
+      641,
+      1017,
+      767
+    ],
+    "id_bounds": [
+      63,
+      606,
+      88,
+      641
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_hateful",
+    "text": "Hateful or abusive",
+    "bounds": [
+      63,
+      767,
+      1017,
+      893
+    ],
+    "id_bounds": [
+      63,
+      732,
+      88,
+      767
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_violent",
+    "text": "Violent or repulsive",
+    "bounds": [
+      63,
+      893,
+      1017,
+      1019
+    ],
+    "id_bounds": [
+      63,
+      858,
+      88,
+      893
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_sexual",
+    "text": "Sexual or explicit",
+    "bounds": [
+      63,
+      1019,
+      1017,
+      1145
+    ],
+    "id_bounds": [
+      63,
+      984,
+      88,
+      1019
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 6,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_spam",
+    "text": "Spam or scam",
+    "bounds": [
+      63,
+      1145,
+      1017,
+      1271
+    ],
+    "id_bounds": [
+      63,
+      1110,
+      88,
+      1145
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "CheckBox",
+    "resource_id": "com.google.android.apps.magazines:id/BadContentReport_other",
+    "text": "Other",
+    "bounds": [
+      63,
+      1271,
+      1017,
+      1397
+    ],
+    "id_bounds": [
+      63,
+      1236,
+      88,
+      1271
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/cancel_button",
+      "com.google.android.apps.magazines:id/submit_button"
+    ],
+    "text": [
+      "Cancel",
+      "Submit"
+    ],
+    "bounds": [
+      63,
+      1621,
+      1017,
+      1747
+    ],
+    "id_bounds": [
+      63,
+      1586,
+      88,
+      1621
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/cancel_button",
+    "text": "Cancel",
+    "bounds": [
+      505,
+      1621,
+      736,
+      1747
+    ],
+    "id_bounds": [
+      505,
+      1586,
+      530,
+      1621
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with rounded corners, featuring the text 'Cancel' in blue color on a light gray background.",
+      "function": "The component functions to cancel the current action of reporting content, returning the user to the main page where they can view information about Eurostat and access various navigation options."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/submit_button",
+    "text": "Submit",
+    "bounds": [
+      768,
+      1621,
+      1017,
+      1747
+    ],
+    "id_bounds": [
+      768,
+      1586,
+      818,
+      1621
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

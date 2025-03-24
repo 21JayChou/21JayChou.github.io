@@ -1,0 +1,285 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located on the left side of the header.",
+      "function": "The component functions as a back button, allowing the user to navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "VINES",
+    "bounds": [
+      547,
+      220,
+      640,
+      254
+    ],
+    "id_bounds": [
+      547,
+      185,
+      572,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "FUNNY",
+    "bounds": [
+      445,
+      224,
+      544,
+      252
+    ],
+    "id_bounds": [
+      445,
+      189,
+      470,
+      224
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "Pranks & Fails"
+    ],
+    "content_desc": [
+      "Pranks & Fails"
+    ],
+    "bounds": [
+      390,
+      319,
+      716,
+      445
+    ],
+    "id_bounds": [
+      390,
+      284,
+      415,
+      319
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "text": [
+      "Funny"
+    ],
+    "content_desc": [
+      "Funny"
+    ],
+    "bounds": [
+      716,
+      319,
+      906,
+      445
+    ],
+    "id_bounds": [
+      716,
+      284,
+      741,
+      319
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a text label with the word 'Funny' in black color and a standard font. It is located within a tab bar at the top of the screen.",
+      "function": "Switches the content display from 'Latest' to 'Funny', changing the video feed to show funny videos instead of the latest ones."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Latest",
+    "bounds": [
+      236,
+      366,
+      353,
+      402
+    ],
+    "id_bounds": [
+      236,
+      331,
+      261,
+      366
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "HE FELL OFF THE MONKEY BARS | FUNNY FAILS",
+      "August 21, 2022"
+    ],
+    "content_desc": [
+      "August 21, 2022",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      498,
+      1080,
+      1335
+    ],
+    "id_bounds": [
+      0,
+      463,
+      25,
+      498
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular image with rounded corners, displaying a person falling off the monkey bars. The image is colorful and vivid, capturing the moment of the fall.",
+      "function": "The component is likely a thumbnail for a video. Clicking on it initiates the loading of the corresponding video content, which in this case resulted in an error page indicating that the webpage could not be loaded due to a connection issue."
+    }
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "August 21, 2022"
+    ],
+    "content_desc": [
+      "August 21, 2022",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1208,
+      1080,
+      1335
+    ],
+    "id_bounds": [
+      53,
+      1173,
+      78,
+      1208
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the bottom right corner of the video entry. It is circular with a light gray color and contains three vertical dots.",
+      "function": "The component likely opens a menu with additional options for the video, such as sharing, bookmarking, or accessing other settings. Clicking on it seems to trigger an action that leads to an error page, possibly due to a network issue or a problem with the video link."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1224,
+      1080,
+      1319
+    ],
+    "id_bounds": [
+      987,
+      1189,
+      1037,
+      1224
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1399,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1364,
+      50,
+      1399
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

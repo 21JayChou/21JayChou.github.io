@@ -1,0 +1,282 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "text": "How do you know?",
+    "bounds": [
+      464,
+      170,
+      884,
+      246
+    ],
+    "id_bounds": [
+      464,
+      135,
+      489,
+      170
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "resource_id": "skip-id",
+    "content_desc": "Skip to main content",
+    "bounds": [
+      47,
+      215,
+      168,
+      223
+    ],
+    "id_bounds": [
+      47,
+      180,
+      72,
+      215
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Home - European Commission",
+    "bounds": [
+      42,
+      286,
+      406,
+      467
+    ],
+    "id_bounds": [
+      42,
+      251,
+      67,
+      286
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "content_desc": "Search",
+    "bounds": [
+      798,
+      338,
+      916,
+      456
+    ],
+    "id_bounds": [
+      798,
+      303,
+      823,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "content_desc": "News",
+    "bounds": [
+      126,
+      779,
+      233,
+      840
+    ],
+    "id_bounds": [
+      126,
+      744,
+      151,
+      779
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      25,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      711,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a share icon, represented by a horizontal line with two circles on either side. It is black in color.",
+      "function": "The component is used to share the article. When clicked, it opens a sharing interface where the user can choose different platforms or methods to share the article."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

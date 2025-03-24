@@ -1,0 +1,216 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located at the top left corner of the screen.",
+      "function": "Navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/link_widget"
+    ],
+    "bounds": [
+      0,
+      168,
+      1080,
+      1679
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "WebView",
+    "resource_id": "com.google.android.apps.magazines:id/link_widget",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1679
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      25,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      711,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a share icon, represented by two interconnected circles with a curved line connecting them. It is black in color.",
+      "function": "The component is used to share the article. When clicked, it opens a sharing interface where the user can copy the link or share it nearby."
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      837,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 7,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      963,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 8,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      963,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically representing a menu or more options. It is black in color and consists of three vertically aligned dots.",
+      "function": "Open additional options menu"
+    }
+  }
+]

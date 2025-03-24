@@ -1,0 +1,164 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_remove_edition",
+    "content_desc": "Unfollow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "TheDigital Fix",
+    "bounds": [
+      216,
+      186,
+      868,
+      282
+    ],
+    "id_bounds": [
+      216,
+      151,
+      241,
+      186
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Henry Selick wishes he got more credit for Nightmare Before Christmas",
+      "December 27, 2024"
+    ],
+    "content_desc": [
+      "December 27, 2024",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      401,
+      1080,
+      1238
+    ],
+    "id_bounds": [
+      0,
+      366,
+      25,
+      401
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the top right corner of the screen. It is circular in shape and contains three vertical dots arranged in a line.",
+      "function": "The component likely opens a menu with additional options related to the article, such as sharing, bookmarking, or accessing settings."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "December 27, 2024"
+    ],
+    "content_desc": [
+      "December 27, 2024",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1111,
+      1080,
+      1238
+    ],
+    "id_bounds": [
+      53,
+      1076,
+      78,
+      1111
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1127,
+      1080,
+      1222
+    ],
+    "id_bounds": [
+      987,
+      1092,
+      1012,
+      1127
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a magnifying glass icon, which is typically associated with search functionality. It is black and white, with a simple, clean design.",
+      "function": "Initiate a search function, allowing users to input queries related to topics, locations, and sources."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a circular button with a pink background and a white Chinese character '可' in the center.",
+      "function": "Access settings and account management options."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Headlines",
+    "bounds": [
+      411,
+      120,
+      667,
+      174
+    ],
+    "id_bounds": [
+      411,
+      85,
+      436,
+      120
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "LinearLayout",
+    "text": [
+      "World"
+    ],
+    "content_desc": [
+      "World"
+    ],
+    "bounds": [
+      217,
+      231,
+      407,
+      357
+    ],
+    "id_bounds": [
+      217,
+      196,
+      242,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "Business"
+    ],
+    "content_desc": [
+      "Business"
+    ],
+    "bounds": [
+      407,
+      231,
+      646,
+      357
+    ],
+    "id_bounds": [
+      407,
+      196,
+      432,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "Entertainment"
+    ],
+    "content_desc": [
+      "Entertainment"
+    ],
+    "bounds": [
+      646,
+      231,
+      982,
+      357
+    ],
+    "id_bounds": [
+      646,
+      196,
+      671,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular tab with the text 'Entertainment' in black color. It is located in the header section of the app, aligned horizontally with other category tabs.",
+      "function": "Switches the content display to entertainment news articles."
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Latest",
+    "bounds": [
+      66,
+      278,
+      179,
+      314
+    ],
+    "id_bounds": [
+      66,
+      243,
+      91,
+      278
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "OECD",
+      "Policies for the digital transformation of school education",
+      "17 hours ago"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      410,
+      1080,
+      1319
+    ],
+    "id_bounds": [
+      0,
+      375,
+      25,
+      410
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "17 hours ago"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1192,
+      1080,
+      1319
+    ],
+    "id_bounds": [
+      53,
+      1157,
+      78,
+      1192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1208,
+      1080,
+      1303
+    ],
+    "id_bounds": [
+      987,
+      1173,
+      1012,
+      1208
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1407,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1372,
+      50,
+      1407
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with a star symbol inside it, labeled 'For you'. It is located at the bottom navigation bar.",
+      "function": "Navigates to the 'For you' section of the app, which displays personalized news content based on user preferences and reading history."
+    }
+  },
+  {
+    "node_id": 12,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

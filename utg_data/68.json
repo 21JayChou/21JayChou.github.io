@@ -1,0 +1,298 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/drawer_scrim",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "View",
+    "content_desc": "Login on your MyOECD account",
+    "bounds": [
+      653,
+      185,
+      760,
+      358
+    ],
+    "id_bounds": [
+      653,
+      150,
+      678,
+      185
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a magnifying glass icon, which is typically used to represent a search function. It is circular in shape with a dark blue outline and a lighter blue fill.",
+      "function": "Initiate a search within the app."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "content_desc": "OECD",
+    "bounds": [
+      144,
+      232,
+      451,
+      311
+    ],
+    "id_bounds": [
+      144,
+      197,
+      169,
+      232
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page",
+      "Go to OECD",
+      "Send feedback",
+      "Report content"
+    ],
+    "content_desc": [
+      "Share",
+      "Remove from saved stories",
+      "Close"
+    ],
+    "bounds": [
+      0,
+      1100,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1065,
+      25,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1137,
+      812,
+      1263
+    ],
+    "id_bounds": [
+      686,
+      1102,
+      711,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Remove from saved stories",
+    "bounds": [
+      812,
+      1137,
+      938,
+      1263
+    ],
+    "id_bounds": [
+      812,
+      1102,
+      837,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 6,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button"
+    ],
+    "content_desc": [
+      "Close"
+    ],
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/close_button",
+    "content_desc": "Close",
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      25,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to OECD"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      25,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      50,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular button with a light background and dark text. It features an icon of a speech bubble on the left side and the text 'Send feedback' next to it.",
+      "function": "The component is used to initiate the process of sending feedback. When clicked, it opens a feedback request form where users can provide their input by answering questions and highlighting areas of concern on a screenshot."
+    }
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      50,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

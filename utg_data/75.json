@@ -1,0 +1,297 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "INFORMED",
+    "bounds": [
+      439,
+      224,
+      661,
+      266
+    ],
+    "id_bounds": [
+      439,
+      189,
+      464,
+      224
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "COMMENT",
+    "bounds": [
+      437,
+      270,
+      661,
+      312
+    ],
+    "id_bounds": [
+      437,
+      235,
+      462,
+      270
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "FEATURED",
+    "bounds": [
+      58,
+      452,
+      268,
+      494
+    ],
+    "id_bounds": [
+      58,
+      417,
+      83,
+      452
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "https://www.juancole.com/2025/03/emissions",
+    "bounds": [
+      62,
+      730,
+      836,
+      770
+    ],
+    "id_bounds": [
+      62,
+      695,
+      87,
+      730
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "-plummeting-electricity.html",
+    "bounds": [
+      61,
+      772,
+      522,
+      814
+    ],
+    "id_bounds": [
+      61,
+      737,
+      86,
+      772
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      862,
+      1080,
+      988
+    ],
+    "id_bounds": [
+      0,
+      827,
+      25,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      862,
+      518,
+      988
+    ],
+    "id_bounds": [
+      287,
+      827,
+      312,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      862,
+      793,
+      988
+    ],
+    "id_bounds": [
+      560,
+      827,
+      585,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Informed Comment: European C02",
+    "bounds": [
+      103,
+      1084,
+      925,
+      1136
+    ],
+    "id_bounds": [
+      103,
+      1049,
+      128,
+      1084
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "Emissions keep Plummeting, as 47..",
+    "bounds": [
+      105,
+      1150,
+      949,
+      1196
+    ],
+    "id_bounds": [
+      105,
+      1115,
+      130,
+      1150
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      222,
+      1442,
+      860,
+      1484
+    ],
+    "id_bounds": [
+      222,
+      1407,
+      272,
+      1442
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      904,
+      1865,
+      986,
+      1905
+    ],
+    "id_bounds": [
+      904,
+      1830,
+      954,
+      1865
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      597,
+      1866,
+      753,
+      1906
+    ],
+    "id_bounds": [
+      597,
+      1831,
+      647,
+      1866
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      66,
+      1868,
+      201,
+      1902
+    ],
+    "id_bounds": [
+      66,
+      1833,
+      116,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      363,
+      1870,
+      447,
+      1900
+    ],
+    "id_bounds": [
+      363,
+      1835,
+      413,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

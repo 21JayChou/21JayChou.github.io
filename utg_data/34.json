@@ -1,0 +1,125 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/touch_outside",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Save for later"
+    ],
+    "bounds": [
+      0,
+      1285,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1250,
+      25,
+      1285
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with a light background and dark text. It features an icon resembling a bookmark on the left side and the text 'Save for later' to its right.",
+      "function": "This component allows the user to save the current video content for later viewing. Clicking it likely adds the video to a saved list or queue within the app, enabling the user to access it again without having to search for it."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Share"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      25,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      25,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      25,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

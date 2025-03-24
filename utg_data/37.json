@@ -1,0 +1,392 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/drawer_scrim",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "View",
+    "bounds": [
+      81,
+      185,
+      1080,
+      1697
+    ],
+    "id_bounds": [
+      81,
+      150,
+      106,
+      185
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon located at the top left corner of the page. It is black in color and has a simple, flat design.",
+      "function": "The component functions as a back button, allowing the user to navigate to the previous page."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "Button",
+    "text": "How do you know?",
+    "bounds": [
+      545,
+      187,
+      965,
+      263
+    ],
+    "id_bounds": [
+      545,
+      152,
+      570,
+      187
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "content_desc": "Log in Log in",
+    "bounds": [
+      627,
+      324,
+      745,
+      442
+    ],
+    "id_bounds": [
+      627,
+      289,
+      652,
+      324
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "Search Search",
+    "bounds": [
+      879,
+      324,
+      997,
+      442
+    ],
+    "id_bounds": [
+      879,
+      289,
+      904,
+      324
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon located at the top left corner of the screen. It is black in color and has a simple, flat design.",
+      "function": "The component functions as a back button, allowing the user to navigate to the previous page or section within the app."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Home (Eurostat)",
+    "bounds": [
+      123,
+      355,
+      619,
+      410
+    ],
+    "id_bounds": [
+      123,
+      320,
+      148,
+      355
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Full Coverage",
+      "View original web page",
+      "Go to European Commission",
+      "Send feedback",
+      "Report content"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "Close"
+    ],
+    "bounds": [
+      0,
+      1100,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1065,
+      25,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1137,
+      812,
+      1263
+    ],
+    "id_bounds": [
+      686,
+      1102,
+      711,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1137,
+      938,
+      1263
+    ],
+    "id_bounds": [
+      812,
+      1102,
+      837,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button"
+    ],
+    "content_desc": [
+      "Close"
+    ],
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a black 'X' icon located at the bottom right corner of the page.",
+      "function": "Close the current view or dismiss the overlay."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/close_button",
+    "content_desc": "Close",
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      988,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "bounds": [
+      53,
+      1148,
+      422,
+      1253
+    ],
+    "id_bounds": [
+      53,
+      1113,
+      103,
+      1148
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a button with a white background and rounded corners. It has an icon on the left that resembles a newspaper or a document, and the text 'Full Coverage' is displayed in black next to it.",
+      "function": "The component functions as a button that, when clicked, navigates to a page displaying a full coverage of news articles related to the topic of renewable energy sources accounting for 47% of EU electricity. This page provides additional related articles and informed comments."
+    }
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      50,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to European Commission"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      50,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      50,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      50,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

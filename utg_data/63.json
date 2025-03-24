@@ -1,0 +1,104 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      147,
+      210
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      73,
+      1080,
+      199
+    ],
+    "id_bounds": [
+      975,
+      38,
+      1000,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically used to indicate more options or settings. It is composed of three vertically aligned dots.",
+      "function": "Open a dropdown menu with additional options such as 'Past profile pictures', 'Birthday settings', 'Help', and 'Send feedback'."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Google Account",
+    "bounds": [
+      139,
+      104,
+      532,
+      174
+    ],
+    "id_bounds": [
+      139,
+      69,
+      164,
+      104
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.gms:id/octarine_webview_container",
+      "com.google.android.gms:id/octarine_webview"
+    ],
+    "bounds": [
+      0,
+      210,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      175,
+      25,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "WebView",
+    "resource_id": "com.google.android.gms:id/octarine_webview",
+    "bounds": [
+      0,
+      210,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      175,
+      25,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  }
+]

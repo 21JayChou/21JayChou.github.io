@@ -1,0 +1,597 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a magnifying glass icon, which is typically used to represent a search function. It is black and white with a simple, clean design.",
+      "function": "The component is a search icon that, when clicked, opens a search page where users can input queries related to topics, locations, and sources."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Newsstand",
+    "bounds": [
+      395,
+      122,
+      685,
+      170
+    ],
+    "id_bounds": [
+      395,
+      87,
+      420,
+      122
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Suggested Sources",
+    "bounds": [
+      375,
+      238,
+      707,
+      284
+    ],
+    "id_bounds": [
+      375,
+      203,
+      400,
+      238
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "Button",
+    "content_desc": "Entertainment",
+    "bounds": [
+      0,
+      330,
+      1080,
+      495
+    ],
+    "id_bounds": [
+      0,
+      295,
+      25,
+      330
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a text label with the word 'Entertainment' in a bold font. It is displayed in black color on a white background.",
+      "function": "The component likely serves as a category selector or a link to a specific section within the app. Clicking on it navigates the user from the 'Newsstand' page, which displays various magazine icons under different categories, to a page that lists recommended apps for the user, possibly related to the 'Entertainment' category."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "OK! magazine",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      48,
+      495,
+      350,
+      982
+    ],
+    "id_bounds": [
+      48,
+      460,
+      73,
+      495
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "RadioTimes",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      350,
+      495,
+      652,
+      982
+    ],
+    "id_bounds": [
+      350,
+      460,
+      375,
+      495
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Olagist Media",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      652,
+      495,
+      954,
+      982
+    ],
+    "id_bounds": [
+      652,
+      460,
+      677,
+      495
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      157,
+      746,
+      241,
+      830
+    ],
+    "id_bounds": [
+      157,
+      711,
+      182,
+      746
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 9,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      459,
+      746,
+      543,
+      830
+    ],
+    "id_bounds": [
+      459,
+      711,
+      484,
+      746
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      761,
+      746,
+      845,
+      830
+    ],
+    "id_bounds": [
+      761,
+      711,
+      811,
+      746
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      1063,
+      746,
+      1080,
+      830
+    ],
+    "id_bounds": [
+      1063,
+      711,
+      1113,
+      746
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "More entertainment"
+    ],
+    "bounds": [
+      0,
+      1105,
+      1080,
+      1277
+    ],
+    "id_bounds": [
+      0,
+      1070,
+      50,
+      1105
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "Button",
+    "content_desc": "Food and drink",
+    "bounds": [
+      0,
+      1303,
+      1080,
+      1468
+    ],
+    "id_bounds": [
+      0,
+      1268,
+      50,
+      1303
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a text label with the words 'Food and drink' in black color on a white background.",
+      "function": "The component likely serves as a category selector or label that, when clicked, navigates to a page displaying recommended content specifically related to food and drink."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      48,
+      1468,
+      350,
+      1794
+    ],
+    "id_bounds": [
+      48,
+      1433,
+      98,
+      1468
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      350,
+      1468,
+      652,
+      1794
+    ],
+    "id_bounds": [
+      350,
+      1433,
+      400,
+      1468
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      652,
+      1468,
+      954,
+      1794
+    ],
+    "id_bounds": [
+      652,
+      1433,
+      702,
+      1468
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      954,
+      1468,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      954,
+      1433,
+      1004,
+      1468
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a tab labeled 'For you' with a diamond-shaped icon containing a star. The text and icon are black on a white background.",
+      "function": "The component switches the view from a page displaying suggested entertainment sources to a page showing personalized news content, specifically top stories."
+    }
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a circular icon with a globe symbol and the text 'Headlines' below it. The icon is gray, and the text is black.",
+      "function": "Navigates to the Headlines section of the app, displaying news articles and stories."
+    }
+  },
+  {
+    "node_id": 20,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      157,
+      1719,
+      241,
+      1794
+    ],
+    "id_bounds": [
+      157,
+      1684,
+      207,
+      1719
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      459,
+      1719,
+      543,
+      1794
+    ],
+    "id_bounds": [
+      459,
+      1684,
+      509,
+      1719
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

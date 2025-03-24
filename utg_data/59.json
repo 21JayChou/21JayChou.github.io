@@ -1,0 +1,216 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "European Commission",
+    "bounds": [
+      212,
+      368,
+      868,
+      426
+    ],
+    "id_bounds": [
+      212,
+      333,
+      237,
+      368
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/post_abstract",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Statement by President von der Leyen on the occasion of her official visit to Albania",
+      "Thank you very much, dear Prime Minister, dear Edi, It is very good to be back here in Tirana. So much has happened since my last visit.",
+      "2 days ago"
+    ],
+    "content_desc": [
+      "2 days ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      552,
+      1080,
+      1091
+    ],
+    "id_bounds": [
+      0,
+      517,
+      25,
+      552
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2 days ago"
+    ],
+    "content_desc": [
+      "2 days ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      964,
+      1080,
+      1091
+    ],
+    "id_bounds": [
+      53,
+      929,
+      78,
+      964
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      980,
+      1080,
+      1075
+    ],
+    "id_bounds": [
+      987,
+      945,
+      1012,
+      980
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "COMP0LIVE’s path to startup success with LIFE C2M support",
+      "11 hours ago"
+    ],
+    "content_desc": [
+      "11 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1155,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1120,
+      25,
+      1155
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular card with a green border and an image of Francisco Javier Navas Martos, the Project Coordinator for LIFE COMPOLIVE. The text below the image reads 'LIFE COMPOLIVE’s journey with C2M support.'",
+      "function": "The component functions as a link to a news article about COMPOLIVE’s path to startup success with LIFE C2M support. Clicking on it navigates the user from a general statement page to a detailed news article page."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "with LIEE C2M supp",
+    "bounds": [
+      51,
+      1806,
+      554,
+      1868
+    ],
+    "id_bounds": [
+      51,
+      1771,
+      76,
+      1806
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

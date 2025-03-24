@@ -1,0 +1,302 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Che New ork Cimes",
+    "bounds": [
+      216,
+      192,
+      870,
+      268
+    ],
+    "id_bounds": [
+      216,
+      157,
+      241,
+      192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "Popular"
+    ],
+    "content_desc": [
+      "Popular"
+    ],
+    "bounds": [
+      73,
+      311,
+      292,
+      437
+    ],
+    "id_bounds": [
+      73,
+      276,
+      98,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "U.S."
+    ],
+    "content_desc": [
+      "U.S."
+    ],
+    "bounds": [
+      292,
+      311,
+      445,
+      437
+    ],
+    "id_bounds": [
+      292,
+      276,
+      317,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "text": [
+      "Politics"
+    ],
+    "content_desc": [
+      "Politics"
+    ],
+    "bounds": [
+      635,
+      311,
+      848,
+      437
+    ],
+    "id_bounds": [
+      635,
+      276,
+      660,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "text": [
+      "New York"
+    ],
+    "content_desc": [
+      "New York"
+    ],
+    "bounds": [
+      848,
+      311,
+      1080,
+      437
+    ],
+    "id_bounds": [
+      848,
+      276,
+      873,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular tab with the text 'New York' in black color. It is located in the navigation bar below the header.",
+      "function": "Switches the content display from world news to New York-specific news articles."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "World",
+    "bounds": [
+      486,
+      358,
+      594,
+      394
+    ],
+    "id_bounds": [
+      486,
+      323,
+      511,
+      358
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Canada Condemns China’s Execution of 4 Canadians on Drug Charges",
+      "21 minutes ago"
+    ],
+    "content_desc": [
+      "21 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      490,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      0,
+      455,
+      25,
+      490
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "21 minutes ago"
+    ],
+    "content_desc": [
+      "21 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1200,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      53,
+      1165,
+      103,
+      1200
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1216,
+      1080,
+      1311
+    ],
+    "id_bounds": [
+      987,
+      1181,
+      1037,
+      1216
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1391,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1356,
+      50,
+      1391
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

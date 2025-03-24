@@ -1,0 +1,298 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/drawer_scrim",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Full Coverage",
+      "View original web page",
+      "Go to European Commission",
+      "Send feedback",
+      "Report content"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "Close"
+    ],
+    "bounds": [
+      0,
+      1100,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1065,
+      25,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1137,
+      812,
+      1263
+    ],
+    "id_bounds": [
+      686,
+      1102,
+      711,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a share icon, represented by two interconnected circles with a curved line connecting them. It is black in color and has a simple, flat design.",
+      "function": "The component functions to initiate the sharing of content. When clicked, it opens a pop-up with options to copy the URL or share the content nearby. This action transitions the user from the main Eurostat welcome page to a page displaying a news article link along with sharing options."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1137,
+      938,
+      1263
+    ],
+    "id_bounds": [
+      812,
+      1102,
+      837,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button"
+    ],
+    "content_desc": [
+      "Close"
+    ],
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/close_button",
+    "content_desc": "Close",
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      963,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "bounds": [
+      53,
+      1148,
+      422,
+      1253
+    ],
+    "id_bounds": [
+      53,
+      1113,
+      78,
+      1148
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a button with a rectangular shape and a white background. It has a blue icon on the left side that resembles a newspaper or a document, and the text 'Full Coverage' is written in black next to it.",
+      "function": "The component functions as a navigation button that redirects the user from the main welcome page of Eurostat to a page displaying full coverage news articles related to renewable energy sources accounting for 47% of EU electricity. This button likely serves to provide detailed information and updates on specific topics."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      25,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to European Commission"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      25,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      25,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular button with a light background and dark text. It features an icon of a speech bubble on the left side and the text 'Send feedback' next to it.",
+      "function": "The component is used to navigate to a feedback request screen where users can provide their feedback by answering simple questions and highlighting areas of concern on a screenshot."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      50,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a text label with the text 'Report content' accompanied by a flag icon. The text is in black color and the flag icon is to the left of the text.",
+      "function": "The component is used to report content on the Eurostat app. Clicking on it opens a reporting interface where users can select from various categories such as Misleading or sensational, Hateful or abusive, Violent or repulsive, Sexual or explicit, Spam or scam, and Other. Users can then submit their report."
+    }
+  }
+]

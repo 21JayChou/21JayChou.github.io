@@ -1,0 +1,434 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a magnifying glass icon, which is typically associated with search functionality. It is black and white, with a simple, clean design.",
+      "function": "The component is a search icon that, when clicked, opens a search page where users can input queries related to topics, locations, and sources."
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a circular button with a pink background and white text displaying the Chinese character '可'.",
+      "function": "The component functions as an account settings button. Clicking it opens a settings menu where users can manage their Google account, view recommended actions, notifications, my activity, news settings, and access help & feedback."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Google News",
+    "bounds": [
+      379,
+      116,
+      699,
+      176
+    ],
+    "id_bounds": [
+      379,
+      81,
+      404,
+      116
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "content_desc": "Top stories",
+    "bounds": [
+      0,
+      231,
+      1080,
+      383
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with the text 'Top stories' in blue color and an arrow pointing to the right.",
+      "function": "Navigates to the 'Headlines' section of the app, displaying a list of news articles categorized by topics such as Latest, World, Business, Entertainment, etc."
+    }
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "OECD",
+      "Policies for the digital transformation of school education",
+      "15h"
+    ],
+    "content_desc": [
+      "15 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      383,
+      1080,
+      1281
+    ],
+    "id_bounds": [
+      0,
+      348,
+      25,
+      383
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular area with rounded corners, featuring a dark blue background and an image of diagonal lines. Below the image, there is text in white that reads 'OECD' and a headline in black that says 'Policies for the digital transformation of school education'.",
+      "function": "The component functions as a news article thumbnail. Clicking on it navigates to a detailed page about the specific publication, providing more information about the content."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "15h"
+    ],
+    "content_desc": [
+      "15 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1165,
+      1080,
+      1281
+    ],
+    "id_bounds": [
+      53,
+      1130,
+      78,
+      1165
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the top right corner of the news article card. It is circular with a light gray background and contains three vertically aligned dots.",
+      "function": "The component likely opens a menu with additional options related to the news article, such as sharing, saving, or accessing more information about the article."
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1170,
+      1080,
+      1265
+    ],
+    "id_bounds": [
+      987,
+      1135,
+      1012,
+      1170
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon, typically representing a menu or more options. It is located at the top right corner of the news article card.",
+      "function": "When clicked, it opens a menu with various options related to the news article, such as saving the story, sharing it, going to the source's page, hiding all stories from the source, sending feedback, and reporting content."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "European Commission",
+      "Electricity from renewable sources reaches 47% in 2024",
+      "17h"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1281,
+      1080,
+      1633
+    ],
+    "id_bounds": [
+      0,
+      1246,
+      25,
+      1281
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a small icon located at the bottom right corner of the news article. It features a colorful square with a grid pattern, suggesting it might be related to sharing or accessing additional options.",
+      "function": "The component likely triggers an action that leads to a loading page, possibly to load more detailed information about the selected news article or to navigate to a different section within the app."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "17h"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1517,
+      1080,
+      1633
+    ],
+    "id_bounds": [
+      53,
+      1482,
+      78,
+      1517
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a small icon located at the bottom right corner of the news article in the Google News app. It has a blue background with a white square and a smaller blue square inside it, resembling a newspaper or a document.",
+      "function": "When clicked, this component opens the full article from the source website. It transitions from displaying a list of news articles to a detailed view of a specific article, providing more in-depth information and additional features such as sharing and bookmarking options."
+    }
+  },
+  {
+    "node_id": 9,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+    "bounds": [
+      876,
+      1522,
+      971,
+      1617
+    ],
+    "id_bounds": [
+      876,
+      1487,
+      901,
+      1522
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a small icon located at the bottom right of the first article on the 'Top stories' page. It has a blue background with a white square and two horizontal lines, resembling a newspaper or document icon.",
+      "function": "When clicked, this component opens a detailed view of the selected news article, providing full coverage and additional related articles."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1522,
+      1080,
+      1617
+    ],
+    "id_bounds": [
+      987,
+      1487,
+      1037,
+      1522
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a vertical ellipsis icon located at the top right corner of the first news article. It is small and black in color.",
+      "function": "The component opens a menu with options for user interaction with the news story, including removing it from saved stories, sharing it, going to the source's page, hiding all stories from the source, sending feedback, and reporting content."
+    }
+  },
+  {
+    "node_id": 11,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 12,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with a globe symbol and the text 'Headlines' below it. The icon is gray, and the text is black.",
+      "function": "Navigates to the Headlines section of the app, displaying a list of news articles categorized by topics such as Latest, World, Business, Entertainment, etc."
+    }
+  },
+  {
+    "node_id": 13,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a star icon with the label 'Following' below it. The icon is black and white, and the text is in a standard font.",
+      "function": "Navigates to the 'Following' page where recently followed publications are displayed along with quick access to different sections such as Library, Saved Stories, The Daily Mash, and The Digital Fix."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with the text 'Newsstand' below it. The icon features a stylized representation of a newsstand, consisting of three vertical lines of varying heights.",
+      "function": "Navigates to the Newsstand section where users can browse and subscribe to various magazines and publications."
+    }
+  }
+]

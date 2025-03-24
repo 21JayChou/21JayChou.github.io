@@ -1,0 +1,388 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located at the top left corner of the screen.",
+      "function": "Navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "MetalTalk",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "bounds": [
+      968,
+      194,
+      1044,
+      294
+    ],
+    "id_bounds": [
+      968,
+      159,
+      993,
+      194
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "bounds": [
+      968,
+      202,
+      1044,
+      288
+    ],
+    "id_bounds": [
+      968,
+      167,
+      993,
+      202
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "bounds": [
+      31,
+      210,
+      249,
+      280
+    ],
+    "id_bounds": [
+      31,
+      175,
+      56,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "bounds": [
+      31,
+      217,
+      94,
+      280
+    ],
+    "id_bounds": [
+      31,
+      182,
+      56,
+      217
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "bounds": [
+      49,
+      320,
+      1031,
+      530
+    ],
+    "id_bounds": [
+      49,
+      285,
+      74,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "View",
+    "bounds": [
+      49,
+      632,
+      1031,
+      1680
+    ],
+    "id_bounds": [
+      49,
+      597,
+      99,
+      632
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "View",
+    "content_desc": "South Arcade / Ascent Hits New Heights With Explosive KOKO Performance",
+    "bounds": [
+      49,
+      632,
+      1031,
+      1417
+    ],
+    "id_bounds": [
+      49,
+      597,
+      99,
+      632
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "content_desc": "SOUTH ARCADE / ASCENT HITS NEW HEIGHTS WITH EXPLOSIVE KOKO PERFORMANCE",
+    "bounds": [
+      105,
+      1063,
+      939,
+      1291
+    ],
+    "id_bounds": [
+      105,
+      1028,
+      155,
+      1063
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "View",
+    "content_desc": "The Temperance Movement Stun Bristol: A Powerful Comeback In Full Swing",
+    "bounds": [
+      49,
+      1422,
+      1031,
+      1680
+    ],
+    "id_bounds": [
+      49,
+      1387,
+      99,
+      1422
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

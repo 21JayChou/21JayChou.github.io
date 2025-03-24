@@ -1,0 +1,179 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/touch_outside",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Remove from saved stories"
+    ],
+    "bounds": [
+      0,
+      1033,
+      1080,
+      1164
+    ],
+    "id_bounds": [
+      0,
+      998,
+      25,
+      1033
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Share"
+    ],
+    "bounds": [
+      0,
+      1164,
+      1080,
+      1290
+    ],
+    "id_bounds": [
+      0,
+      1129,
+      25,
+      1164
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a button with the text 'Share' and an icon that resembles a connected chain, indicating sharing functionality. The text is black on a white background.",
+      "function": "The component allows the user to share the news article displayed on the screen. After clicking, a pop-up appears with options to copy the link or share it via different applications such as Bluetooth, Gmail, Messages, and Drive."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to European Commission"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      25,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Hide all stories from European Commission"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      25,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      25,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      25,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a text label with the text 'Report content' accompanied by a flag icon. The text is in black and the background is white.",
+      "function": "The component allows the user to report content they find inappropriate or problematic. Clicking on it opens a reporting interface where the user can select from various categories of issues such as Misleading or sensational, Hateful or abusive, Violent or repulsive, Sexual or explicit, Spam or scam, and Other. After selecting the appropriate category, the user can submit the report."
+    }
+  }
+]

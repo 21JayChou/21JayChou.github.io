@@ -1,0 +1,318 @@
+[
+  {
+    "node_id": 0,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/toolbar"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      231
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 1,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Alerts",
+    "bounds": [
+      38,
+      274,
+      151,
+      318
+    ],
+    "id_bounds": [
+      38,
+      239,
+      63,
+      274
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title"
+    ],
+    "text": [
+      "Notifications"
+    ],
+    "bounds": [
+      0,
+      319,
+      1080,
+      462
+    ],
+    "id_bounds": [
+      0,
+      284,
+      25,
+      319
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/summary",
+      "android:id/widget_frame",
+      "android:id/switch_widget"
+    ],
+    "text": [
+      "Daily briefing emails",
+      "Get your personalized daily briefing in your inbox"
+    ],
+    "bounds": [
+      0,
+      462,
+      1080,
+      657
+    ],
+    "id_bounds": [
+      0,
+      427,
+      25,
+      462
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/summary",
+      "android:id/widget_frame",
+      "android:id/switch_widget"
+    ],
+    "text": [
+      "Product updates emails",
+      "Stay connected with the latest updates and features related to your Google News"
+    ],
+    "bounds": [
+      0,
+      657,
+      1080,
+      899
+    ],
+    "id_bounds": [
+      0,
+      622,
+      25,
+      657
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "General",
+    "bounds": [
+      40,
+      944,
+      183,
+      986
+    ],
+    "id_bounds": [
+      40,
+      909,
+      65,
+      944
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/summary"
+    ],
+    "text": [
+      "Languages & regions of interest",
+      "English (Albania) and English (Belize)"
+    ],
+    "bounds": [
+      0,
+      987,
+      1080,
+      1182
+    ],
+    "id_bounds": [
+      0,
+      952,
+      25,
+      987
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/summary"
+    ],
+    "text": [
+      "Dark theme",
+      "System default"
+    ],
+    "bounds": [
+      0,
+      1182,
+      1080,
+      1377
+    ],
+    "id_bounds": [
+      0,
+      1147,
+      25,
+      1182
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a text label with the title 'Dark theme' and a subtitle 'System default'. It is displayed in a white background with black text.",
+      "function": "The component allows the user to change the dark theme settings. Clicking on it opens a menu with options to choose between 'System default', 'Always', and 'Never'."
+    }
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/widget_frame",
+      "android:id/switch_widget"
+    ],
+    "text": [
+      "Mini cards"
+    ],
+    "bounds": [
+      0,
+      1377,
+      1080,
+      1520
+    ],
+    "id_bounds": [
+      0,
+      1342,
+      25,
+      1377
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title"
+    ],
+    "text": [
+      "Sources & topics you see less of"
+    ],
+    "bounds": [
+      0,
+      1520,
+      1080,
+      1663
+    ],
+    "id_bounds": [
+      0,
+      1485,
+      50,
+      1520
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/title",
+      "android:id/summary"
+    ],
+    "text": [
+      "Data Saver mode",
+      "Enabled"
+    ],
+    "bounds": [
+      0,
+      1663,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1628,
+      50,
+      1663
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Enabled",
+    "bounds": [
+      39,
+      1766,
+      183,
+      1806
+    ],
+    "id_bounds": [
+      39,
+      1731,
+      89,
+      1766
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with rounded corners, displaying the text 'Enabled' in black font on a light background.",
+      "function": "The component allows the user to toggle the 'Data Saver mode' setting. Clicking on it opens a pop-up window with options to set 'Data Saver mode' to 'Automatic', 'Enabled', or 'Disabled'."
+    }
+  }
+]

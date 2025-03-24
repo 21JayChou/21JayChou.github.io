@@ -1,0 +1,323 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located at the top left corner of the screen.",
+      "function": "Navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "text": "How do you know?",
+    "bounds": [
+      464,
+      170,
+      884,
+      246
+    ],
+    "id_bounds": [
+      464,
+      135,
+      489,
+      170
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "Log in Log in",
+    "bounds": [
+      546,
+      307,
+      664,
+      425
+    ],
+    "id_bounds": [
+      546,
+      272,
+      571,
+      307
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Search Search",
+    "bounds": [
+      798,
+      307,
+      916,
+      425
+    ],
+    "id_bounds": [
+      798,
+      272,
+      823,
+      307
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "content_desc": "Home (Eurostat)",
+    "bounds": [
+      42,
+      338,
+      538,
+      393
+    ],
+    "id_bounds": [
+      42,
+      303,
+      67,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon located in the top left corner of the screen. It is black and white with a simple, flat design.",
+      "function": "Navigate back to the previous page."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "content_desc": "Home",
+    "bounds": [
+      42,
+      530,
+      157,
+      590
+    ],
+    "id_bounds": [
+      42,
+      495,
+      67,
+      530
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "content_desc": "View all",
+    "bounds": [
+      84,
+      1207,
+      341,
+      1275
+    ],
+    "id_bounds": [
+      84,
+      1172,
+      109,
+      1207
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "content_desc": "© GH Studio/Shutterstock.com European Statistical Monitor: March edition 19 March 2025",
+    "bounds": [
+      42,
+      1312,
+      1042,
+      1680
+    ],
+    "id_bounds": [
+      42,
+      1277,
+      67,
+      1312
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "node_id": 0,
+    "class": "EditText",
+    "resource_id": "com.google.android.apps.magazines:id/search_bar",
+    "text": "sciences po",
+    "bounds": [
+      42,
+      84,
+      1038,
+      210
+    ],
+    "id_bounds": [
+      42,
+      49,
+      67,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      53,
+      84,
+      179,
+      210
+    ],
+    "id_bounds": [
+      53,
+      49,
+      78,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/icon_background",
+      "com.google.android.apps.magazines:id/circular_icon_disk_background",
+      "com.google.android.apps.magazines:id/circular_image_icon",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "Sciences Po",
+      "Topic"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      231,
+      1080,
+      453
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      300,
+      1027,
+      384
+    ],
+    "id_bounds": [
+      943,
+      265,
+      968,
+      300
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Sciences Po",
+      "2025 QS ranking: Sciences Po ranked 4th best university in the world in ‘Politics’",
+      "7 days ago"
+    ],
+    "content_desc": [
+      "7 days ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      453,
+      1080,
+      858
+    ],
+    "id_bounds": [
+      0,
+      418,
+      25,
+      453
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "7 days ago"
+    ],
+    "content_desc": [
+      "7 days ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      731,
+      1080,
+      858
+    ],
+    "id_bounds": [
+      53,
+      696,
+      78,
+      731
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      747,
+      1080,
+      842
+    ],
+    "id_bounds": [
+      987,
+      712,
+      1012,
+      747
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Le Monde ",
+      "Sciences Po presents policy of 'institutional reserve' on hot topics",
+      "February 11"
+    ],
+    "content_desc": [
+      "February 11",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      858,
+      1080,
+      1263
+    ],
+    "id_bounds": [
+      0,
+      823,
+      25,
+      858
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "February 11"
+    ],
+    "content_desc": [
+      "February 11",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1136,
+      1080,
+      1263
+    ],
+    "id_bounds": [
+      53,
+      1101,
+      78,
+      1136
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1152,
+      1080,
+      1247
+    ],
+    "id_bounds": [
+      987,
+      1117,
+      1012,
+      1152
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Sciences Po",
+      "Navalny, one year after his death in prison",
+      "February 18"
+    ],
+    "content_desc": [
+      "February 18",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1263,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1228,
+      50,
+      1263
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "February 18"
+    ],
+    "content_desc": [
+      "February 18",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1541,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      53,
+      1506,
+      103,
+      1541
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1557,
+      1080,
+      1652
+    ],
+    "id_bounds": [
+      987,
+      1522,
+      1037,
+      1557
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "text": [
+      "Sciences Po",
+      "Sciences Po Students are Taking Part in Four Ambitious Cross-European Projects"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      50,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular thumbnail image with rounded corners, featuring an image of students sitting outdoors. The text overlay on the image reads 'Sciences Po Students are Taking Part in Four Ambitious Cross-European Projects'.",
+      "function": "Open the article about Sciences Po students participating in cross-European projects."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Part in Four Ambitious",
+    "bounds": [
+      56,
+      1834,
+      486,
+      1868
+    ],
+    "id_bounds": [
+      56,
+      1799,
+      106,
+      1834
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "Europear",
+    "bounds": [
+      183,
+      1888,
+      361,
+      1912
+    ],
+    "id_bounds": [
+      183,
+      1853,
+      233,
+      1888
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

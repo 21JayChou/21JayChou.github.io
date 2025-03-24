@@ -1,0 +1,207 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "CONFIDENTIALS",
+    "bounds": [
+      461,
+      244,
+      619,
+      270
+    ],
+    "id_bounds": [
+      461,
+      209,
+      486,
+      244
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "Liverpool Confidential"
+    ],
+    "content_desc": [
+      "Liverpool Confidential"
+    ],
+    "bounds": [
+      544,
+      319,
+      1021,
+      445
+    ],
+    "id_bounds": [
+      544,
+      284,
+      569,
+      319
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "Manchester Confidential",
+    "bounds": [
+      64,
+      366,
+      502,
+      400
+    ],
+    "id_bounds": [
+      64,
+      331,
+      89,
+      366
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Endometriosis: Things you should know",
+      "16 hours ago"
+    ],
+    "content_desc": [
+      "16 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      498,
+      1080,
+      1269
+    ],
+    "id_bounds": [
+      0,
+      463,
+      25,
+      498
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "16 hours ago"
+    ],
+    "content_desc": [
+      "16 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1142,
+      1080,
+      1269
+    ],
+    "id_bounds": [
+      53,
+      1107,
+      78,
+      1142
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1158,
+      1080,
+      1253
+    ],
+    "id_bounds": [
+      987,
+      1123,
+      1012,
+      1158
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a floating action button with a white background and a gray border. It contains three vertically aligned dots, which are black in color.",
+      "function": "The component opens a menu with options to save the article for later, share it, send feedback, and report content."
+    }
+  }
+]

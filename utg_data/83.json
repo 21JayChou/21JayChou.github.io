@@ -1,0 +1,305 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": " Settings",
+    "bounds": [
+      45,
+      116,
+      360,
+      178
+    ],
+    "id_bounds": [
+      45,
+      81,
+      70,
+      116
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "Alerts",
+    "bounds": [
+      38,
+      276,
+      149,
+      320
+    ],
+    "id_bounds": [
+      38,
+      241,
+      63,
+      276
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Notifications",
+    "bounds": [
+      40,
+      372,
+      286,
+      414
+    ],
+    "id_bounds": [
+      40,
+      337,
+      65,
+      372
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Daily briefing emails",
+    "bounds": [
+      44,
+      516,
+      425,
+      556
+    ],
+    "id_bounds": [
+      44,
+      481,
+      69,
+      516
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "Dark theme",
+    "bounds": [
+      89,
+      612,
+      425,
+      670
+    ],
+    "id_bounds": [
+      89,
+      577,
+      114,
+      612
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "System default",
+    "bounds": [
+      214,
+      760,
+      505,
+      812
+    ],
+    "id_bounds": [
+      214,
+      725,
+      239,
+      760
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Always",
+    "bounds": [
+      216,
+      890,
+      353,
+      942
+    ],
+    "id_bounds": [
+      216,
+      855,
+      241,
+      890
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a radio button with the label 'Enabled'. It is circular in shape and has a blue border with a white background. The text 'Enabled' is displayed to the right of the radio button.",
+      "function": "The component is used to enable or disable the 'Data Saver mode' setting. Clicking on this component toggles between different options for the 'Data Saver mode': 'Automatic', 'Enabled', and 'Disabled'."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Never",
+    "bounds": [
+      214,
+      1020,
+      336,
+      1062
+    ],
+    "id_bounds": [
+      214,
+      985,
+      239,
+      1020
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/button2"
+    ],
+    "text": [
+      "Cancel"
+    ],
+    "bounds": [
+      28,
+      1100,
+      1052,
+      1300
+    ],
+    "id_bounds": [
+      28,
+      1065,
+      53,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "android:id/button2",
+    "text": "Cancel",
+    "bounds": [
+      804,
+      1137,
+      989,
+      1263
+    ],
+    "id_bounds": [
+      804,
+      1102,
+      829,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "System detault",
+    "bounds": [
+      44,
+      1296,
+      294,
+      1330
+    ],
+    "id_bounds": [
+      44,
+      1261,
+      94,
+      1296
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Mini cards",
+    "bounds": [
+      40,
+      1426,
+      240,
+      1474
+    ],
+    "id_bounds": [
+      40,
+      1391,
+      90,
+      1426
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Sources & topics you see less of",
+    "bounds": [
+      42,
+      1572,
+      667,
+      1616
+    ],
+    "id_bounds": [
+      42,
+      1537,
+      92,
+      1572
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Data Saver mode",
+    "bounds": [
+      42,
+      1716,
+      369,
+      1758
+    ],
+    "id_bounds": [
+      42,
+      1681,
+      92,
+      1716
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a toggle switch labeled 'Data Saver mode'. It is rectangular with rounded corners and has a blue background when enabled. The text 'Data Saver mode' is displayed in black.",
+      "function": "The component allows the user to enable or disable the Data Saver mode, which helps reduce data usage by compressing images and other content."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Enabled",
+    "bounds": [
+      42,
+      1772,
+      181,
+      1806
+    ],
+    "id_bounds": [
+      42,
+      1737,
+      92,
+      1772
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a toggle switch with a rounded rectangular shape. It is in the 'on' position, indicated by its blue color and the fact that it is to the right side of the toggle area.",
+      "function": "The component is a toggle switch used to enable or disable the 'Mini cards' feature in the settings menu. When clicked, it switches the 'Mini cards' feature on or off."
+    }
+  }
+]

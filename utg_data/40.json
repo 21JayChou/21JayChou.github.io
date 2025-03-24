@@ -1,0 +1,183 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon, which is black in color and located on the top left corner of the screen.",
+      "function": "Navigate back to the previous page"
+    }
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_remove_edition",
+    "content_desc": "Unfollow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "poptopic",
+    "bounds": [
+      474,
+      212,
+      697,
+      266
+    ],
+    "id_bounds": [
+      474,
+      177,
+      499,
+      212
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "pt",
+    "bounds": [
+      392,
+      220,
+      450,
+      267
+    ],
+    "id_bounds": [
+      392,
+      185,
+      417,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Stairway to Heaven: Elevating Your Driving Experience",
+      "21 hours ago"
+    ],
+    "content_desc": [
+      "21 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      404,
+      1080,
+      1241
+    ],
+    "id_bounds": [
+      0,
+      369,
+      25,
+      404
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "21 hours ago"
+    ],
+    "content_desc": [
+      "21 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1114,
+      1080,
+      1241
+    ],
+    "id_bounds": [
+      53,
+      1079,
+      78,
+      1114
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1130,
+      1080,
+      1225
+    ],
+    "id_bounds": [
+      987,
+      1095,
+      1012,
+      1130
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

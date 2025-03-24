@@ -1,0 +1,363 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Back",
+    "bounds": [
+      0,
+      73,
+      126,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/open_search_view_edit_text",
+      "com.google.android.apps.magazines:id/open_search_view_clear_button"
+    ],
+    "text": [
+      "topics"
+    ],
+    "content_desc": [
+      "Clear text"
+    ],
+    "bounds": [
+      126,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "EditText",
+    "resource_id": "com.google.android.apps.magazines:id/open_search_view_edit_text",
+    "text": "topics",
+    "bounds": [
+      126,
+      84,
+      933,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a search bar with a light background and a blue cursor. It is rectangular in shape and positioned at the top of the screen.",
+      "function": "The component allows the user to type in a search query. Upon entering text, it displays a list of suggested search results related to the entered query. The suggestions are clickable and lead to more detailed search results."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "ImageButton",
+    "resource_id": "com.google.android.apps.magazines:id/open_search_view_clear_button",
+    "content_desc": "Clear text",
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics to talk about"
+    ],
+    "bounds": [
+      0,
+      231,
+      1080,
+      389
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics"
+    ],
+    "bounds": [
+      0,
+      389,
+      1080,
+      547
+    ],
+    "id_bounds": [
+      0,
+      354,
+      25,
+      389
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics to discuss with friends"
+    ],
+    "bounds": [
+      0,
+      547,
+      1080,
+      705
+    ],
+    "id_bounds": [
+      0,
+      512,
+      25,
+      547
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics to talk about with your boyfriend"
+    ],
+    "bounds": [
+      0,
+      705,
+      1080,
+      863
+    ],
+    "id_bounds": [
+      0,
+      670,
+      25,
+      705
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics for essay"
+    ],
+    "bounds": [
+      0,
+      863,
+      1080,
+      1021
+    ],
+    "id_bounds": [
+      0,
+      828,
+      25,
+      863
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics to talk with gf"
+    ],
+    "bounds": [
+      0,
+      1021,
+      1080,
+      1179
+    ],
+    "id_bounds": [
+      0,
+      986,
+      25,
+      1021
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics to talk about with your crush"
+    ],
+    "bounds": [
+      0,
+      1179,
+      1080,
+      1337
+    ],
+    "id_bounds": [
+      0,
+      1144,
+      50,
+      1179
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics for speech"
+    ],
+    "bounds": [
+      0,
+      1337,
+      1080,
+      1495
+    ],
+    "id_bounds": [
+      0,
+      1302,
+      50,
+      1337
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics for presentation"
+    ],
+    "bounds": [
+      0,
+      1495,
+      1080,
+      1653
+    ],
+    "id_bounds": [
+      0,
+      1460,
+      50,
+      1495
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "topics synonym"
+    ],
+    "bounds": [
+      0,
+      1653,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1618,
+      50,
+      1653
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      325
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "MetalTalk",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "bounds": [
+      968,
+      194,
+      1044,
+      294
+    ],
+    "id_bounds": [
+      968,
+      159,
+      993,
+      194
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "bounds": [
+      968,
+      202,
+      1044,
+      288
+    ],
+    "id_bounds": [
+      968,
+      167,
+      993,
+      202
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "bounds": [
+      31,
+      210,
+      249,
+      280
+    ],
+    "id_bounds": [
+      31,
+      175,
+      56,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "bounds": [
+      31,
+      217,
+      94,
+      280
+    ],
+    "id_bounds": [
+      31,
+      182,
+      56,
+      217
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "View",
+    "bounds": [
+      0,
+      320,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      285,
+      50,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "View",
+    "resource_id": "template-id-20643",
+    "bounds": [
+      0,
+      320,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      285,
+      50,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "bounds": [
+      49,
+      341,
+      1031,
+      401
+    ],
+    "id_bounds": [
+      49,
+      306,
+      99,
+      341
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "View",
+    "content_desc": "South Arcade / Ascent Hits New Heights With Explosive KOKO Performance",
+    "bounds": [
+      49,
+      341,
+      1031,
+      401
+    ],
+    "id_bounds": [
+      49,
+      306,
+      99,
+      341
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a back arrow icon located in the top left corner of the screen. It is white in color and has a simple, universally recognizable shape.",
+      "function": "Navigate back to the previous page or section within the app."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "View",
+    "content_desc": "MetalTalk Home",
+    "bounds": [
+      49,
+      346,
+      322,
+      393
+    ],
+    "id_bounds": [
+      49,
+      311,
+      99,
+      346
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "View",
+    "content_desc": "Gig Reviews",
+    "bounds": [
+      346,
+      346,
+      551,
+      393
+    ],
+    "id_bounds": [
+      346,
+      311,
+      396,
+      346
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "View",
+    "bounds": [
+      49,
+      483,
+      1031,
+      732
+    ],
+    "id_bounds": [
+      49,
+      448,
+      99,
+      483
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "View",
+    "bounds": [
+      65,
+      766,
+      370,
+      816
+    ],
+    "id_bounds": [
+      65,
+      731,
+      115,
+      766
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "View",
+    "bounds": [
+      380,
+      771,
+      750,
+      816
+    ],
+    "id_bounds": [
+      380,
+      736,
+      430,
+      771
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "View",
+    "content_desc": "MATT PRATT",
+    "bounds": [
+      522,
+      771,
+      742,
+      816
+    ],
+    "id_bounds": [
+      522,
+      736,
+      572,
+      771
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "View",
+    "bounds": [
+      49,
+      918,
+      1031,
+      1632
+    ],
+    "id_bounds": [
+      49,
+      883,
+      99,
+      918
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

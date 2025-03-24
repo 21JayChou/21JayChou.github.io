@@ -1,0 +1,381 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Eurostat website requires you to authenticate",
+    "bounds": [
+      121,
+      232,
+      963,
+      272
+    ],
+    "id_bounds": [
+      121,
+      197,
+      146,
+      232
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Sign in to continue",
+    "bounds": [
+      254,
+      320,
+      828,
+      392
+    ],
+    "id_bounds": [
+      254,
+      285,
+      279,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "Sign in with the EU Login Mobile app",
+    "bounds": [
+      290,
+      590,
+      812,
+      634
+    ],
+    "id_bounds": [
+      290,
+      555,
+      315,
+      590
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular button with a blue background and white text that reads 'Sign in with the EU Login Mobile app'. It has a smartphone icon on the left side.",
+      "function": "Initiates a sign-in process using the EU Login Mobile app. However, it seems to have encountered an error due to an unknown URL scheme, leading to a webpage not available error."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "Or",
+    "bounds": [
+      502,
+      728,
+      556,
+      768
+    ],
+    "id_bounds": [
+      502,
+      693,
+      527,
+      728
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Enter your email address or unique identifier",
+    "bounds": [
+      103,
+      830,
+      735,
+      864
+    ],
+    "id_bounds": [
+      103,
+      795,
+      128,
+      830
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Create an account",
+    "bounds": [
+      105,
+      1044,
+      361,
+      1072
+    ],
+    "id_bounds": [
+      105,
+      1009,
+      130,
+      1044
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Or",
+    "bounds": [
+      504,
+      1132,
+      556,
+      1174
+    ],
+    "id_bounds": [
+      504,
+      1097,
+      529,
+      1132
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "If you do not wish to create an EU Login account, you can sign",
+    "bounds": [
+      103,
+      1234,
+      971,
+      1268
+    ],
+    "id_bounds": [
+      103,
+      1199,
+      128,
+      1234
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "in by using one of the following third-party sign-in options",
+    "bounds": [
+      101,
+      1284,
+      907,
+      1320
+    ],
+    "id_bounds": [
+      101,
+      1249,
+      151,
+      1284
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "(\"Sign-in Service\"). Read more",
+    "bounds": [
+      105,
+      1338,
+      524,
+      1372
+    ],
+    "id_bounds": [
+      105,
+      1303,
+      155,
+      1338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Sign in with your eID",
+    "bounds": [
+      274,
+      1440,
+      562,
+      1474
+    ],
+    "id_bounds": [
+      274,
+      1405,
+      324,
+      1440
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the bottom right corner of the screen. It is circular with three vertically aligned dots in black color.",
+      "function": "The component opens a menu with additional options including 'View original web page', 'Go to European Commission', 'Send feedback', and 'Report content'. This allows the user to access more functionalities related to the Eurostat website."
+    }
+  },
+  {
+    "node_id": 17,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

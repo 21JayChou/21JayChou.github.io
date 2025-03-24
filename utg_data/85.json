@@ -1,0 +1,538 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "content_desc": "VIEW IN APP",
+    "bounds": [
+      782,
+      191,
+      1044,
+      296
+    ],
+    "id_bounds": [
+      782,
+      156,
+      807,
+      191
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Al Jazeera",
+    "bounds": [
+      228,
+      198,
+      427,
+      240
+    ],
+    "id_bounds": [
+      228,
+      163,
+      253,
+      198
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "www.aljazeera",
+    "bounds": [
+      36,
+      317,
+      477,
+      490
+    ],
+    "id_bounds": [
+      36,
+      282,
+      61,
+      317
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "Link to live stream video player",
+    "bounds": [
+      637,
+      362,
+      813,
+      435
+    ],
+    "id_bounds": [
+      637,
+      327,
+      662,
+      362
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "content_desc": "Sign up",
+    "bounds": [
+      863,
+      364,
+      929,
+      441
+    ],
+    "id_bounds": [
+      863,
+      329,
+      888,
+      364
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "TheWebpageJat https://cmp.aljaz ",
+    "bounds": [
+      34,
+      372,
+      721,
+      426
+    ],
+    "id_bounds": [
+      34,
+      337,
+      59,
+      372
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "sitename=aje&env=prod#amp=1 could not be Toaded ",
+    "bounds": [
+      16,
+      426,
+      1022,
+      474
+    ],
+    "id_bounds": [
+      16,
+      391,
+      41,
+      426
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "because:",
+    "bounds": [
+      18,
+      478,
+      191,
+      518
+    ],
+    "id_bounds": [
+      18,
+      443,
+      43,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "View",
+    "content_desc": "News",
+    "bounds": [
+      36,
+      530,
+      147,
+      577
+    ],
+    "id_bounds": [
+      36,
+      495,
+      86,
+      530
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "News I Death Penalty",
+    "bounds": [
+      36,
+      530,
+      467,
+      570
+    ],
+    "id_bounds": [
+      36,
+      495,
+      86,
+      530
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "content_desc": "Death Penalty",
+    "bounds": [
+      204,
+      530,
+      467,
+      577
+    ],
+    "id_bounds": [
+      204,
+      495,
+      254,
+      530
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "net:ERR_ADDRESS_UNREACHABLE",
+    "bounds": [
+      18,
+      564,
+      689,
+      608
+    ],
+    "id_bounds": [
+      18,
+      529,
+      68,
+      564
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "China executes 4 dual Canadian",
+    "bounds": [
+      44,
+      618,
+      1016,
+      672
+    ],
+    "id_bounds": [
+      44,
+      583,
+      94,
+      618
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "citizens despite Ottawa's plea",
+    "bounds": [
+      44,
+      704,
+      941,
+      764
+    ],
+    "id_bounds": [
+      44,
+      669,
+      94,
+      704
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "for clemency",
+    "bounds": [
+      33,
+      785,
+      439,
+      859
+    ],
+    "id_bounds": [
+      33,
+      750,
+      83,
+      785
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "China's embassy in Ottawa has confirmed",
+    "bounds": [
+      40,
+      904,
+      957,
+      950
+    ],
+    "id_bounds": [
+      40,
+      869,
+      90,
+      904
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "executions of four dual Canadian-Chinese",
+    "bounds": [
+      38,
+      972,
+      949,
+      1022
+    ],
+    "id_bounds": [
+      38,
+      937,
+      88,
+      972
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "citizens for drug offences.",
+    "bounds": [
+      40,
+      1042,
+      598,
+      1094
+    ],
+    "id_bounds": [
+      40,
+      1007,
+      90,
+      1042
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 21,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/hero_action_button",
+      "com.google.android.apps.magazines:id/hero_action_icon",
+      "com.google.android.apps.magazines:id/hero_action_text"
+    ],
+    "text": [
+      "Full Coverage"
+    ],
+    "bounds": [
+      53,
+      1679,
+      422,
+      1784
+    ],
+    "id_bounds": [
+      53,
+      1644,
+      103,
+      1679
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

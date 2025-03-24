@@ -1,0 +1,687 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": " Recommended for you",
+    "bounds": [
+      137,
+      118,
+      753,
+      176
+    ],
+    "id_bounds": [
+      137,
+      83,
+      162,
+      118
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "1",
+      "The Happy High",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      252,
+      1080,
+      442
+    ],
+    "id_bounds": [
+      0,
+      217,
+      25,
+      252
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      284,
+      1027,
+      410
+    ],
+    "id_bounds": [
+      901,
+      249,
+      926,
+      284
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      305,
+      1027,
+      389
+    ],
+    "id_bounds": [
+      943,
+      270,
+      968,
+      305
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "2",
+      "Long Island Wave",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      444,
+      1080,
+      634
+    ],
+    "id_bounds": [
+      0,
+      409,
+      25,
+      444
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      476,
+      1027,
+      602
+    ],
+    "id_bounds": [
+      901,
+      441,
+      926,
+      476
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      497,
+      1027,
+      581
+    ],
+    "id_bounds": [
+      943,
+      462,
+      968,
+      497
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "3",
+      "United Baristas",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      636,
+      1080,
+      826
+    ],
+    "id_bounds": [
+      0,
+      601,
+      25,
+      636
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      668,
+      1027,
+      794
+    ],
+    "id_bounds": [
+      901,
+      633,
+      926,
+      668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      689,
+      1027,
+      773
+    ],
+    "id_bounds": [
+      943,
+      654,
+      993,
+      689
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "4",
+      "https://www.giftideasquotes.com/",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      828,
+      1080,
+      1018
+    ],
+    "id_bounds": [
+      0,
+      793,
+      50,
+      828
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      860,
+      1027,
+      986
+    ],
+    "id_bounds": [
+      901,
+      825,
+      951,
+      860
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      881,
+      1027,
+      965
+    ],
+    "id_bounds": [
+      943,
+      846,
+      993,
+      881
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "5",
+      "Confidentials",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1020,
+      1080,
+      1210
+    ],
+    "id_bounds": [
+      0,
+      985,
+      50,
+      1020
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular area with a placeholder icon on the left, the text 'Confidential' in bold, and a label 'Free of charge' below it. To the right, there is a star icon within a circular border.",
+      "function": "The component is a clickable item that represents a recommended content entry. Clicking on this component navigates to a detailed page displaying articles from 'Confidential', specifically showing articles from different city confidantials."
+    }
+  },
+  {
+    "node_id": 15,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      1052,
+      1027,
+      1178
+    ],
+    "id_bounds": [
+      901,
+      1017,
+      951,
+      1052
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1073,
+      1027,
+      1157
+    ],
+    "id_bounds": [
+      943,
+      1038,
+      993,
+      1073
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "6",
+      "Food and Drug Tech.",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1212,
+      1080,
+      1402
+    ],
+    "id_bounds": [
+      0,
+      1177,
+      50,
+      1212
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      1244,
+      1027,
+      1370
+    ],
+    "id_bounds": [
+      901,
+      1209,
+      951,
+      1244
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1265,
+      1027,
+      1349
+    ],
+    "id_bounds": [
+      943,
+      1230,
+      993,
+      1265
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "7",
+      "LDN Life",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1404,
+      1080,
+      1594
+    ],
+    "id_bounds": [
+      0,
+      1369,
+      50,
+      1404
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      1436,
+      1027,
+      1562
+    ],
+    "id_bounds": [
+      901,
+      1401,
+      951,
+      1436
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1457,
+      1027,
+      1541
+    ],
+    "id_bounds": [
+      943,
+      1422,
+      993,
+      1457
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/rank",
+      "com.google.android.apps.magazines:id/icon_wrapper",
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "8",
+      "The Cooking Hacks UK",
+      "Free of charge"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1596,
+      1080,
+      1786
+    ],
+    "id_bounds": [
+      0,
+      1561,
+      50,
+      1596
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      901,
+      1628,
+      1027,
+      1754
+    ],
+    "id_bounds": [
+      901,
+      1593,
+      951,
+      1628
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1649,
+      1027,
+      1733
+    ],
+    "id_bounds": [
+      943,
+      1614,
+      993,
+      1649
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 26,
+    "class": "OCRText",
+    "text": "Pahari Patrika",
+    "bounds": [
+      274,
+      1832,
+      508,
+      1866
+    ],
+    "id_bounds": [
+      274,
+      1797,
+      324,
+      1832
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

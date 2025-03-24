@@ -1,0 +1,400 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.google.android.apps.magazines:id/drawer_scrim",
+    "bounds": [
+      0,
+      0,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      0,
+      25,
+      35
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "View",
+    "bounds": [
+      81,
+      185,
+      1080,
+      1697
+    ],
+    "id_bounds": [
+      81,
+      150,
+      106,
+      185
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular image of a house with solar panels on the roof, displayed in the 'FEATURED' section. The image has a white border and is set against a light background.",
+      "function": "The component functions as a thumbnail for featured content. Clicking on it navigates to a detailed article page where the full article can be read."
+    }
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "resource_id": "nav-open",
+    "bounds": [
+      130,
+      234,
+      380,
+      374
+    ],
+    "id_bounds": [
+      130,
+      199,
+      155,
+      234
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with three horizontal lines, resembling a menu or hamburger icon. It is located on the left side of the header.",
+      "function": "Open the article details."
+    }
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "content_desc": "Informed Comment Homepage",
+    "bounds": [
+      401,
+      234,
+      745,
+      332
+    ],
+    "id_bounds": [
+      401,
+      199,
+      426,
+      234
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "content_desc": "FEATURED",
+    "bounds": [
+      130,
+      463,
+      361,
+      518
+    ],
+    "id_bounds": [
+      130,
+      428,
+      155,
+      463
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with a white background and black text. It is located at the bottom of the screen and has an icon that resembles a bookmark.",
+      "function": "Bookmark the current article"
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "US FOREIGN POLICY",
+    "bounds": [
+      0,
+      1035,
+      32,
+      1132
+    ],
+    "id_bounds": [
+      0,
+      1000,
+      25,
+      1035
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 6,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text",
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page",
+      "Go to Informed Comment",
+      "Send feedback",
+      "Report content"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "Close"
+    ],
+    "bounds": [
+      0,
+      1100,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1065,
+      25,
+      1100
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "content_desc": "ENERGY",
+    "bounds": [
+      0,
+      1130,
+      32,
+      1227
+    ],
+    "id_bounds": [
+      0,
+      1095,
+      25,
+      1130
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1137,
+      812,
+      1263
+    ],
+    "id_bounds": [
+      686,
+      1102,
+      711,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1137,
+      938,
+      1263
+    ],
+    "id_bounds": [
+      812,
+      1102,
+      837,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/close_button"
+    ],
+    "content_desc": [
+      "Close"
+    ],
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      988,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/close_button",
+    "content_desc": "Close",
+    "bounds": [
+      938,
+      1137,
+      1064,
+      1263
+    ],
+    "id_bounds": [
+      938,
+      1102,
+      988,
+      1137
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "View original web page"
+    ],
+    "bounds": [
+      0,
+      1290,
+      1080,
+      1416
+    ],
+    "id_bounds": [
+      0,
+      1255,
+      50,
+      1290
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with a light gray background and black text that reads 'View original web page'. It has a small icon on the left side resembling a computer monitor.",
+      "function": "This component allows the user to view the original web page of the featured article. Clicking on it opens the full article from the source website, providing more detailed information and context."
+    }
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Go to Informed Comment"
+    ],
+    "bounds": [
+      0,
+      1416,
+      1080,
+      1542
+    ],
+    "id_bounds": [
+      0,
+      1381,
+      50,
+      1416
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Send feedback"
+    ],
+    "bounds": [
+      0,
+      1542,
+      1080,
+      1668
+    ],
+    "id_bounds": [
+      0,
+      1507,
+      50,
+      1542
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "View",
+    "content_desc": "JUAN COLE",
+    "bounds": [
+      165,
+      1557,
+      414,
+      1628
+    ],
+    "id_bounds": [
+      165,
+      1522,
+      215,
+      1557
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon",
+      "com.google.android.apps.magazines:id/text"
+    ],
+    "text": [
+      "Report content"
+    ],
+    "bounds": [
+      0,
+      1668,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1633,
+      50,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

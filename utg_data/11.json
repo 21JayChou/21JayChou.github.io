@@ -1,0 +1,538 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/top_bar",
+      "com.google.android.apps.magazines:id/top_back_button"
+    ],
+    "content_desc": [
+      "Navigate up"
+    ],
+    "bounds": [
+      0,
+      63,
+      1080,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/top_back_button",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      63,
+      168,
+      168
+    ],
+    "id_bounds": [
+      0,
+      28,
+      25,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      0,
+      168,
+      1080,
+      325
+    ],
+    "id_bounds": [
+      0,
+      133,
+      25,
+      168
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "content_desc": "MetalTalk",
+    "bounds": [
+      246,
+      181,
+      837,
+      307
+    ],
+    "id_bounds": [
+      246,
+      146,
+      271,
+      181
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "bounds": [
+      968,
+      194,
+      1044,
+      294
+    ],
+    "id_bounds": [
+      968,
+      159,
+      993,
+      194
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "bounds": [
+      968,
+      202,
+      1044,
+      288
+    ],
+    "id_bounds": [
+      968,
+      167,
+      993,
+      202
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "bounds": [
+      31,
+      210,
+      249,
+      280
+    ],
+    "id_bounds": [
+      31,
+      175,
+      56,
+      210
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "bounds": [
+      31,
+      217,
+      94,
+      280
+    ],
+    "id_bounds": [
+      31,
+      182,
+      56,
+      217
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a magnifying glass icon located in the top left corner of the header. It is white and circular with a black outline.",
+      "function": "Activates a search function, allowing users to input text to search for specific content within the app."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "View",
+    "bounds": [
+      0,
+      320,
+      1080,
+      1680
+    ],
+    "id_bounds": [
+      0,
+      285,
+      50,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "View",
+    "content_desc": "South Arcade / Ascent Hits New Heights With Explosive KOKO Performance",
+    "bounds": [
+      0,
+      320,
+      1080,
+      1113
+    ],
+    "id_bounds": [
+      0,
+      285,
+      50,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "bounds": [
+      49,
+      320,
+      1031,
+      1561
+    ],
+    "id_bounds": [
+      49,
+      285,
+      99,
+      320
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "View",
+    "content_desc": "SOUTH ARCADE / ASCENT HITS NEW HEIGHTS WITH EXPLOSIVE KOKO PERFORMANCE",
+    "bounds": [
+      49,
+      758,
+      887,
+      984
+    ],
+    "id_bounds": [
+      49,
+      723,
+      99,
+      758
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "View",
+    "content_desc": "Dååth’s Resurgence: Sean Z On Touring With New Lineup, Magic And Rollercoasters",
+    "bounds": [
+      0,
+      1115,
+      866,
+      1554
+    ],
+    "id_bounds": [
+      0,
+      1080,
+      50,
+      1115
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "View",
+    "content_desc": "Foreigner Launch Sold-Out 2025 Tour In Florida With Lou Gramm",
+    "bounds": [
+      871,
+      1115,
+      1080,
+      1554
+    ],
+    "id_bounds": [
+      871,
+      1080,
+      921,
+      1115
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "View",
+    "content_desc": "DÅÅTH’S RESURGENCE: SEAN Z ON TOURING WITH NEW LINEUP, MAGIC AND ROLLERCOASTERS",
+    "bounds": [
+      36,
+      1223,
+      777,
+      1449
+    ],
+    "id_bounds": [
+      36,
+      1188,
+      86,
+      1223
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "View",
+    "content_desc": "FOREIGNER LAUNCH SOLD-OUT 2025 TOUR IN FLORIDA WITH LOU GRAMM",
+    "bounds": [
+      910,
+      1223,
+      1080,
+      1449
+    ],
+    "id_bounds": [
+      910,
+      1188,
+      960,
+      1223
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "View",
+    "bounds": [
+      49,
+      1609,
+      1031,
+      1680
+    ],
+    "id_bounds": [
+      49,
+      1574,
+      99,
+      1609
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "View",
+    "text": "METALTALK - HEAVY METAL NEWS",
+    "bounds": [
+      49,
+      1609,
+      1031,
+      1680
+    ],
+    "id_bounds": [
+      49,
+      1574,
+      99,
+      1609
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "View",
+    "content_desc": "METALTALK - HEAVY METAL NEWS",
+    "bounds": [
+      49,
+      1609,
+      942,
+      1680
+    ],
+    "id_bounds": [
+      49,
+      1574,
+      99,
+      1609
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "View",
+    "content_desc": "news",
+    "bounds": [
+      952,
+      1609,
+      1031,
+      1680
+    ],
+    "id_bounds": [
+      952,
+      1574,
+      1002,
+      1609
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/article_drawer_fragment",
+      "com.google.android.apps.magazines:id/drawer_menu",
+      "com.google.android.apps.magazines:id/drawer_header_container",
+      "com.google.android.apps.magazines:id/primary_action_button",
+      "com.google.android.apps.magazines:id/secondary_action_button",
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "Share",
+      "Save for later",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1647,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1612,
+      50,
+      1647
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/primary_action_button",
+    "content_desc": "Share",
+    "bounds": [
+      686,
+      1668,
+      812,
+      1794
+    ],
+    "id_bounds": [
+      686,
+      1633,
+      736,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/secondary_action_button",
+    "content_desc": "Save for later",
+    "bounds": [
+      812,
+      1668,
+      938,
+      1794
+    ],
+    "id_bounds": [
+      812,
+      1633,
+      862,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/menu_and_close_button",
+      "com.google.android.apps.magazines:id/menu_button"
+    ],
+    "content_desc": [
+      "More options"
+    ],
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 26,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/menu_button",
+    "content_desc": "More options",
+    "bounds": [
+      938,
+      1668,
+      1064,
+      1794
+    ],
+    "id_bounds": [
+      938,
+      1633,
+      988,
+      1668
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

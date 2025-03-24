@@ -1,0 +1,534 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Following",
+    "bounds": [
+      412,
+      115,
+      666,
+      181
+    ],
+    "id_bounds": [
+      412,
+      80,
+      437,
+      115
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Recentlyfollowed",
+    "bounds": [
+      52,
+      324,
+      312,
+      358
+    ],
+    "id_bounds": [
+      52,
+      289,
+      77,
+      324
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Library"
+    ],
+    "bounds": [
+      48,
+      378,
+      258,
+      656
+    ],
+    "id_bounds": [
+      48,
+      343,
+      73,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Saved Stories"
+    ],
+    "bounds": [
+      258,
+      378,
+      468,
+      656
+    ],
+    "id_bounds": [
+      258,
+      343,
+      283,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "European Commission"
+    ],
+    "bounds": [
+      468,
+      378,
+      678,
+      656
+    ],
+    "id_bounds": [
+      468,
+      343,
+      493,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "RadioTimes"
+    ],
+    "bounds": [
+      678,
+      378,
+      888,
+      656
+    ],
+    "id_bounds": [
+      678,
+      343,
+      703,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "OK! magazine"
+    ],
+    "bounds": [
+      888,
+      378,
+      1080,
+      656
+    ],
+    "id_bounds": [
+      888,
+      343,
+      913,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "content_desc": "European Commission",
+    "bounds": [
+      0,
+      735,
+      1080,
+      925
+    ],
+    "id_bounds": [
+      0,
+      700,
+      25,
+      735
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/cluster_follow_button",
+    "content_desc": "Unfollow",
+    "bounds": [
+      933,
+      788,
+      1017,
+      872
+    ],
+    "id_bounds": [
+      933,
+      753,
+      983,
+      788
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "European Commission",
+      "CosIng - Cosmetics Ingredients",
+      "Yesterday"
+    ],
+    "content_desc": [
+      "Yesterday",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      925,
+      1080,
+      1208
+    ],
+    "id_bounds": [
+      0,
+      890,
+      50,
+      925
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Yesterday"
+    ],
+    "content_desc": [
+      "Yesterday",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1081,
+      1080,
+      1208
+    ],
+    "id_bounds": [
+      53,
+      1046,
+      103,
+      1081
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1097,
+      1080,
+      1192
+    ],
+    "id_bounds": [
+      987,
+      1062,
+      1037,
+      1097
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Environment",
+      "Get ready for the 3 Billion Trees Award!",
+      "2 minutes ago"
+    ],
+    "content_desc": [
+      "2 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1208,
+      1080,
+      1613
+    ],
+    "id_bounds": [
+      0,
+      1173,
+      50,
+      1208
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2 minutes ago"
+    ],
+    "content_desc": [
+      "2 minutes ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1486,
+      1080,
+      1613
+    ],
+    "id_bounds": [
+      53,
+      1451,
+      103,
+      1486
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the top right corner of the article titled 'Get ready for the 3 Billion Trees Award!' on the 'Following' page. It is circular with a light gray background and contains three vertically aligned dots.",
+      "function": "The component likely opens a menu with additional options related to the article, such as sharing, bookmarking, or accessing more settings."
+    }
+  },
+  {
+    "node_id": 16,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1502,
+      1080,
+      1597
+    ],
+    "id_bounds": [
+      987,
+      1467,
+      1037,
+      1502
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

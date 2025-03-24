@@ -1,0 +1,335 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "SciencesPo",
+    "bounds": [
+      49,
+      202,
+      389,
+      268
+    ],
+    "id_bounds": [
+      49,
+      167,
+      74,
+      202
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "ECOLE DE DROIT",
+    "bounds": [
+      54,
+      286,
+      381,
+      326
+    ],
+    "id_bounds": [
+      54,
+      251,
+      79,
+      286
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Accueil >",
+    "bounds": [
+      79,
+      438,
+      294,
+      486
+    ],
+    "id_bounds": [
+      79,
+      403,
+      104,
+      438
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "The use of open source information",
+    "bounds": [
+      81,
+      512,
+      969,
+      552
+    ],
+    "id_bounds": [
+      81,
+      477,
+      106,
+      512
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "in the investigation and prosecution",
+    "bounds": [
+      79,
+      578,
+      987,
+      622
+    ],
+    "id_bounds": [
+      79,
+      543,
+      104,
+      578
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "https://www.sciencespo.fr/ecole-droit/fr/evenements/the",
+    "bounds": [
+      62,
+      730,
+      1011,
+      770
+    ],
+    "id_bounds": [
+      62,
+      695,
+      87,
+      730
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "-use-of-open-source-information-in-the-investigation-and-..",
+    "bounds": [
+      66,
+      776,
+      1012,
+      810
+    ],
+    "id_bounds": [
+      66,
+      741,
+      91,
+      776
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      862,
+      1080,
+      988
+    ],
+    "id_bounds": [
+      0,
+      827,
+      25,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      862,
+      518,
+      988
+    ],
+    "id_bounds": [
+      287,
+      827,
+      312,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      862,
+      793,
+      988
+    ],
+    "id_bounds": [
+      560,
+      827,
+      585,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "Sciences Po: The use of open source",
+    "bounds": [
+      103,
+      1086,
+      971,
+      1136
+    ],
+    "id_bounds": [
+      103,
+      1051,
+      153,
+      1086
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "information in the investigation and..",
+    "bounds": [
+      103,
+      1144,
+      959,
+      1200
+    ],
+    "id_bounds": [
+      103,
+      1109,
+      153,
+      1144
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      224,
+      1444,
+      860,
+      1484
+    ],
+    "id_bounds": [
+      224,
+      1409,
+      274,
+      1444
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      903,
+      1863,
+      987,
+      1905
+    ],
+    "id_bounds": [
+      903,
+      1828,
+      953,
+      1863
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      597,
+      1866,
+      753,
+      1904
+    ],
+    "id_bounds": [
+      597,
+      1831,
+      647,
+      1866
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      66,
+      1868,
+      201,
+      1902
+    ],
+    "id_bounds": [
+      66,
+      1833,
+      116,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      361,
+      1870,
+      447,
+      1900
+    ],
+    "id_bounds": [
+      361,
+      1835,
+      411,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Che New ork Cimes",
+    "bounds": [
+      216,
+      192,
+      868,
+      268
+    ],
+    "id_bounds": [
+      216,
+      157,
+      241,
+      192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "World"
+    ],
+    "content_desc": [
+      "World"
+    ],
+    "bounds": [
+      11,
+      311,
+      201,
+      437
+    ],
+    "id_bounds": [
+      11,
+      276,
+      36,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "Politics"
+    ],
+    "content_desc": [
+      "Politics"
+    ],
+    "bounds": [
+      201,
+      311,
+      414,
+      437
+    ],
+    "id_bounds": [
+      201,
+      276,
+      226,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "text": [
+      "Business"
+    ],
+    "content_desc": [
+      "Business"
+    ],
+    "bounds": [
+      666,
+      311,
+      905,
+      437
+    ],
+    "id_bounds": [
+      666,
+      276,
+      691,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular button with the text 'Business' in black color.",
+      "function": "Navigates to the Business news section."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "text": [
+      "Opinion"
+    ],
+    "content_desc": [
+      "Opinion"
+    ],
+    "bounds": [
+      905,
+      311,
+      1080,
+      437
+    ],
+    "id_bounds": [
+      905,
+      276,
+      930,
+      311
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "New York",
+    "bounds": [
+      455,
+      356,
+      625,
+      392
+    ],
+    "id_bounds": [
+      455,
+      321,
+      480,
+      356
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Fearing Trump, NYU Langone Shuns ‘Trigger’ Words Like ‘Diverse’",
+      "21 hours ago"
+    ],
+    "content_desc": [
+      "21 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      490,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      0,
+      455,
+      25,
+      490
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "21 hours ago"
+    ],
+    "content_desc": [
+      "21 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1200,
+      1080,
+      1327
+    ],
+    "id_bounds": [
+      53,
+      1165,
+      103,
+      1200
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1216,
+      1080,
+      1311
+    ],
+    "id_bounds": [
+      987,
+      1181,
+      1037,
+      1216
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1391,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1356,
+      50,
+      1391
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Q",
+    "bounds": [
+      707,
+      236,
+      750,
+      272
+    ],
+    "id_bounds": [
+      707,
+      201,
+      732,
+      236
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "< Publications",
+    "bounds": [
+      69,
+      392,
+      322,
+      438
+    ],
+    "id_bounds": [
+      69,
+      357,
+      94,
+      392
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Policiesfor the",
+    "bounds": [
+      75,
+      546,
+      800,
+      618
+    ],
+    "id_bounds": [
+      75,
+      511,
+      100,
+      546
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "https://www.oecd.org/en/publications/policies-for-the",
+    "bounds": [
+      60,
+      726,
+      951,
+      770
+    ],
+    "id_bounds": [
+      60,
+      691,
+      85,
+      726
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "-digital-transformation-of-school-education_464dab4d-e..",
+    "bounds": [
+      61,
+      770,
+      999,
+      814
+    ],
+    "id_bounds": [
+      61,
+      735,
+      86,
+      770
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      862,
+      1080,
+      988
+    ],
+    "id_bounds": [
+      0,
+      827,
+      25,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      862,
+      518,
+      988
+    ],
+    "id_bounds": [
+      287,
+      827,
+      312,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      862,
+      793,
+      988
+    ],
+    "id_bounds": [
+      560,
+      827,
+      585,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "OECD: Policies for the digital",
+    "bounds": [
+      105,
+      1084,
+      774,
+      1134
+    ],
+    "id_bounds": [
+      105,
+      1049,
+      130,
+      1084
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "transformation of school education",
+    "bounds": [
+      103,
+      1148,
+      931,
+      1196
+    ],
+    "id_bounds": [
+      103,
+      1113,
+      128,
+      1148
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      224,
+      1444,
+      860,
+      1484
+    ],
+    "id_bounds": [
+      224,
+      1409,
+      274,
+      1444
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      905,
+      1863,
+      985,
+      1905
+    ],
+    "id_bounds": [
+      905,
+      1828,
+      955,
+      1863
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      598,
+      1868,
+      748,
+      1902
+    ],
+    "id_bounds": [
+      598,
+      1833,
+      648,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      68,
+      1870,
+      197,
+      1898
+    ],
+    "id_bounds": [
+      68,
+      1835,
+      118,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      361,
+      1870,
+      447,
+      1900
+    ],
+    "id_bounds": [
+      361,
+      1835,
+      411,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Back",
+    "bounds": [
+      0,
+      73,
+      126,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/open_search_view_edit_text",
+      "com.google.android.apps.magazines:id/open_search_view_clear_button"
+    ],
+    "text": [
+      "New York"
+    ],
+    "content_desc": [
+      "Clear text"
+    ],
+    "bounds": [
+      126,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "EditText",
+    "resource_id": "com.google.android.apps.magazines:id/open_search_view_edit_text",
+    "text": "New York",
+    "bounds": [
+      126,
+      84,
+      933,
+      210
+    ],
+    "id_bounds": [
+      126,
+      49,
+      151,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ImageButton",
+    "resource_id": "com.google.android.apps.magazines:id/open_search_view_clear_button",
+    "content_desc": "Clear text",
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text",
+      "com.google.android.apps.magazines:id/suggest_subtext",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "The New York Times",
+      "Source"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      231,
+      1080,
+      389
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a rectangular area with a white background and a black border. It contains the text 'The New York Times' in bold, black font, and a source label below it. To the right of the text, there is a star icon within a circular outline.",
+      "function": "The component functions as a clickable link that redirects the user from a search results page to the specific content page of 'The New York Times'. This action allows the user to access detailed news articles and other content provided by 'The New York Times'."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      268,
+      1027,
+      352
+    ],
+    "id_bounds": [
+      943,
+      233,
+      968,
+      268
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/icon_background",
+      "com.google.android.apps.magazines:id/circular_icon_disk_background",
+      "com.google.android.apps.magazines:id/circular_image_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text",
+      "com.google.android.apps.magazines:id/suggest_subtext",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "New York",
+      "Location"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      389,
+      1080,
+      547
+    ],
+    "id_bounds": [
+      0,
+      354,
+      25,
+      389
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      426,
+      1027,
+      510
+    ],
+    "id_bounds": [
+      943,
+      391,
+      968,
+      426
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "new yorker"
+    ],
+    "bounds": [
+      0,
+      547,
+      1080,
+      705
+    ],
+    "id_bounds": [
+      0,
+      512,
+      25,
+      547
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "new york population"
+    ],
+    "bounds": [
+      0,
+      705,
+      1080,
+      863
+    ],
+    "id_bounds": [
+      0,
+      670,
+      25,
+      705
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "new york weather"
+    ],
+    "bounds": [
+      0,
+      863,
+      1080,
+      1021
+    ],
+    "id_bounds": [
+      0,
+      828,
+      50,
+      863
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/icon_background",
+      "com.google.android.apps.magazines:id/circular_icon_disk_background",
+      "com.google.android.apps.magazines:id/circular_image_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text",
+      "com.google.android.apps.magazines:id/suggest_subtext",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "New York University",
+      "Topic"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1021,
+      1080,
+      1179
+    ],
+    "id_bounds": [
+      0,
+      986,
+      50,
+      1021
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1058,
+      1027,
+      1142
+    ],
+    "id_bounds": [
+      943,
+      1023,
+      993,
+      1058
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text",
+      "com.google.android.apps.magazines:id/suggest_subtext",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "New York Post ",
+      "Source"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1179,
+      1080,
+      1337
+    ],
+    "id_bounds": [
+      0,
+      1144,
+      50,
+      1179
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1216,
+      1027,
+      1300
+    ],
+    "id_bounds": [
+      943,
+      1181,
+      993,
+      1216
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/icon_background",
+      "com.google.android.apps.magazines:id/circular_icon_disk_background",
+      "com.google.android.apps.magazines:id/text_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text",
+      "com.google.android.apps.magazines:id/suggest_subtext",
+      "com.google.android.apps.magazines:id/follow_button"
+    ],
+    "text": [
+      "U‌O",
+      "University of New York Tirana",
+      "Topic"
+    ],
+    "content_desc": [
+      "Follow"
+    ],
+    "bounds": [
+      0,
+      1337,
+      1080,
+      1495
+    ],
+    "id_bounds": [
+      0,
+      1302,
+      50,
+      1337
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/follow_button",
+    "content_desc": "Follow",
+    "bounds": [
+      943,
+      1374,
+      1027,
+      1458
+    ],
+    "id_bounds": [
+      943,
+      1339,
+      993,
+      1374
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "new york high school tirana"
+    ],
+    "bounds": [
+      0,
+      1495,
+      1080,
+      1653
+    ],
+    "id_bounds": [
+      0,
+      1460,
+      50,
+      1495
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/edition_icon_fixed_width",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/text_frame",
+      "com.google.android.apps.magazines:id/suggest_text"
+    ],
+    "text": [
+      "new york airport"
+    ],
+    "bounds": [
+      0,
+      1653,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1618,
+      50,
+      1653
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

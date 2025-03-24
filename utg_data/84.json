@@ -1,0 +1,520 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Google News",
+    "bounds": [
+      377,
+      114,
+      699,
+      178
+    ],
+    "id_bounds": [
+      377,
+      79,
+      402,
+      114
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "Button",
+    "content_desc": "Top stories",
+    "bounds": [
+      0,
+      231,
+      1080,
+      383
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "European Commission",
+      "Electricity from renewable sources reaches 47% in 2024",
+      "23h"
+    ],
+    "content_desc": [
+      "23 hours ago",
+      "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      383,
+      1080,
+      735
+    ],
+    "id_bounds": [
+      0,
+      348,
+      25,
+      383
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "23h"
+    ],
+    "content_desc": [
+      "23 hours ago",
+      "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      619,
+      1080,
+      735
+    ],
+    "id_bounds": [
+      53,
+      584,
+      78,
+      619
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for Electricity from renewable sources reaches 47% in 2024",
+    "bounds": [
+      876,
+      624,
+      971,
+      719
+    ],
+    "id_bounds": [
+      876,
+      589,
+      901,
+      624
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      624,
+      1080,
+      719
+    ],
+    "id_bounds": [
+      987,
+      589,
+      1012,
+      624
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a news article thumbnail with a headline and an image. The headline is in black text, and the image shows the Canadian and Chinese flags.",
+      "function": "Open the selected news article in the browser."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "BBC.com",
+      "Russia-Ukraine: Trump suggests US control of Ukraine’s power plants in Zelensky call",
+      "4h"
+    ],
+    "content_desc": [
+      "4 hours ago",
+      "View Full Coverage for Russia-Ukraine: Trump suggests US control of Ukraine’s power plants in Zelensky call",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      735,
+      1080,
+      1133
+    ],
+    "id_bounds": [
+      0,
+      700,
+      25,
+      735
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "4h"
+    ],
+    "content_desc": [
+      "4 hours ago",
+      "View Full Coverage for Russia-Ukraine: Trump suggests US control of Ukraine’s power plants in Zelensky call",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1017,
+      1080,
+      1133
+    ],
+    "id_bounds": [
+      53,
+      982,
+      78,
+      1017
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a small icon located at the top right corner of the news article. It has a square shape with rounded corners and features a colorful design that includes a blue background with a yellow and orange element.",
+      "function": "This component likely serves as an action button for additional options related to the news article, such as sharing, bookmarking, or accessing more settings."
+    }
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for Russia-Ukraine: Trump suggests US control of Ukraine’s power plants in Zelensky call",
+    "bounds": [
+      876,
+      1022,
+      971,
+      1117
+    ],
+    "id_bounds": [
+      876,
+      987,
+      926,
+      1022
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1022,
+      1080,
+      1117
+    ],
+    "id_bounds": [
+      987,
+      987,
+      1037,
+      1022
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Al Jazeera English",
+      "China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "1h"
+    ],
+    "content_desc": [
+      "1 hour ago",
+      "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1133,
+      1080,
+      1531
+    ],
+    "id_bounds": [
+      0,
+      1098,
+      50,
+      1133
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/story_metadata_icon",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "1h"
+    ],
+    "content_desc": [
+      "1 hour ago",
+      "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1415,
+      1080,
+      1531
+    ],
+    "id_bounds": [
+      53,
+      1380,
+      103,
+      1415
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 14,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/story_metadata_icon",
+    "content_desc": "View Full Coverage for China executes 4 dual Canadian citizens despite Ottawa’s plea for clemency",
+    "bounds": [
+      876,
+      1420,
+      971,
+      1515
+    ],
+    "id_bounds": [
+      876,
+      1385,
+      926,
+      1420
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1420,
+      1080,
+      1515
+    ],
+    "id_bounds": [
+      987,
+      1385,
+      1037,
+      1420
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

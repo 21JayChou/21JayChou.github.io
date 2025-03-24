@@ -1,0 +1,187 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageButton",
+    "content_desc": "Navigate up",
+    "bounds": [
+      0,
+      73,
+      147,
+      220
+    ],
+    "id_bounds": [
+      0,
+      38,
+      25,
+      73
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/menu_add_edition",
+    "content_desc": "Follow",
+    "bounds": [
+      848,
+      83,
+      975,
+      209
+    ],
+    "id_bounds": [
+      848,
+      48,
+      873,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ImageView",
+    "content_desc": "More options",
+    "bounds": [
+      975,
+      83,
+      1080,
+      209
+    ],
+    "id_bounds": [
+      975,
+      48,
+      1000,
+      83
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Sciences Po",
+    "bounds": [
+      367,
+      370,
+      711,
+      424
+    ],
+    "id_bounds": [
+      367,
+      335,
+      392,
+      370
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "The use of open source information in the investigation and prosecution of international crimes",
+      "17 hours ago"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      552,
+      1080,
+      1455
+    ],
+    "id_bounds": [
+      0,
+      517,
+      25,
+      552
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located at the bottom right corner of the content area. It is circular with a light gray background and contains three vertically aligned dots.",
+      "function": "The component likely opens a menu with additional options related to the content, such as sharing, bookmarking, or accessing more settings."
+    }
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "17 hours ago"
+    ],
+    "content_desc": [
+      "17 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1328,
+      1080,
+      1455
+    ],
+    "id_bounds": [
+      53,
+      1293,
+      78,
+      1328
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1344,
+      1080,
+      1439
+    ],
+    "id_bounds": [
+      987,
+      1309,
+      1012,
+      1344
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image"
+    ],
+    "bounds": [
+      0,
+      1519,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1484,
+      25,
+      1519
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "An official EU website",
+    "bounds": [
+      87,
+      188,
+      457,
+      226
+    ],
+    "id_bounds": [
+      87,
+      153,
+      112,
+      188
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "How do you know?",
+    "bounds": [
+      484,
+      192,
+      830,
+      226
+    ],
+    "id_bounds": [
+      484,
+      157,
+      509,
+      192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "eurostat",
+    "bounds": [
+      42,
+      338,
+      407,
+      392
+    ],
+    "id_bounds": [
+      42,
+      303,
+      67,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "https://ec.europa.eu/eurostat/web/products-eurostat",
+    "bounds": [
+      62,
+      730,
+      943,
+      770
+    ],
+    "id_bounds": [
+      62,
+      695,
+      87,
+      730
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "-news/w/ddn-20250319-1",
+    "bounds": [
+      59,
+      770,
+      490,
+      812
+    ],
+    "id_bounds": [
+      59,
+      735,
+      84,
+      770
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      862,
+      1080,
+      988
+    ],
+    "id_bounds": [
+      0,
+      827,
+      25,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      862,
+      518,
+      988
+    ],
+    "id_bounds": [
+      287,
+      827,
+      312,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      862,
+      793,
+      988
+    ],
+    "id_bounds": [
+      560,
+      827,
+      585,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "European Commission: Electricity",
+    "bounds": [
+      103,
+      1086,
+      891,
+      1136
+    ],
+    "id_bounds": [
+      103,
+      1051,
+      128,
+      1086
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "from renewable sources reaches 4..",
+    "bounds": [
+      103,
+      1146,
+      941,
+      1198
+    ],
+    "id_bounds": [
+      103,
+      1111,
+      128,
+      1146
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      224,
+      1444,
+      860,
+      1484
+    ],
+    "id_bounds": [
+      224,
+      1409,
+      274,
+      1444
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      904,
+      1865,
+      986,
+      1905
+    ],
+    "id_bounds": [
+      904,
+      1830,
+      954,
+      1865
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      597,
+      1866,
+      751,
+      1906
+    ],
+    "id_bounds": [
+      597,
+      1831,
+      647,
+      1866
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      66,
+      1868,
+      199,
+      1902
+    ],
+    "id_bounds": [
+      66,
+      1833,
+      116,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      363,
+      1870,
+      447,
+      1900
+    ],
+    "id_bounds": [
+      363,
+      1835,
+      413,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

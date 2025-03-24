@@ -1,0 +1,293 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "An official EU website  How do you know? v",
+    "bounds": [
+      93,
+      186,
+      844,
+      228
+    ],
+    "id_bounds": [
+      93,
+      151,
+      118,
+      186
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "Energy, Climate change, Environment",
+    "bounds": [
+      40,
+      538,
+      733,
+      586
+    ],
+    "id_bounds": [
+      40,
+      503,
+      65,
+      538
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Environment",
+    "bounds": [
+      42,
+      670,
+      339,
+      718
+    ],
+    "id_bounds": [
+      42,
+      635,
+      67,
+      670
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ViewGroup",
+    "text": [
+      "Send feedback to Google"
+    ],
+    "content_desc": [
+      "Send feedback to Google",
+      "Close Feedback"
+    ],
+    "bounds": [
+      0,
+      794,
+      1080,
+      962
+    ],
+    "id_bounds": [
+      0,
+      759,
+      25,
+      794
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "ImageButton",
+    "content_desc": "Close Feedback",
+    "bounds": [
+      0,
+      804,
+      147,
+      951
+    ],
+    "id_bounds": [
+      0,
+      769,
+      25,
+      804
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "Welcome!",
+    "bounds": [
+      93,
+      1010,
+      266,
+      1046
+    ],
+    "id_bounds": [
+      93,
+      975,
+      118,
+      1010
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "We are constantly improving our product by listening to",
+    "bounds": [
+      48,
+      1124,
+      973,
+      1170
+    ],
+    "id_bounds": [
+      48,
+      1089,
+      73,
+      1124
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "your feedback.",
+    "bounds": [
+      47,
+      1174,
+      304,
+      1222
+    ],
+    "id_bounds": [
+      47,
+      1139,
+      72,
+      1174
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Answer few simple questions, highlight the area of",
+    "bounds": [
+      52,
+      1254,
+      895,
+      1300
+    ],
+    "id_bounds": [
+      52,
+      1219,
+      77,
+      1254
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "concern on the screenshot & send it to us.",
+    "bounds": [
+      52,
+      1310,
+      756,
+      1350
+    ],
+    "id_bounds": [
+      52,
+      1275,
+      77,
+      1310
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "Some account & system information may be sent to Google.",
+    "bounds": [
+      54,
+      1414,
+      935,
+      1448
+    ],
+    "id_bounds": [
+      54,
+      1379,
+      104,
+      1414
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "subject to our Privacy Policy & Terms of Service. Go to Legal Help",
+    "bounds": [
+      52,
+      1454,
+      1020,
+      1494
+    ],
+    "id_bounds": [
+      52,
+      1419,
+      102,
+      1454
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "to report illegal content.",
+    "bounds": [
+      52,
+      1496,
+      409,
+      1536
+    ],
+    "id_bounds": [
+      52,
+      1461,
+      102,
+      1496
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Manage your Account & system information",
+    "bounds": [
+      56,
+      1572,
+      768,
+      1618
+    ],
+    "id_bounds": [
+      56,
+      1537,
+      106,
+      1572
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "Button",
+    "text": "Get Started",
+    "bounds": [
+      53,
+      1642,
+      1027,
+      1768
+    ],
+    "id_bounds": [
+      53,
+      1607,
+      103,
+      1642
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

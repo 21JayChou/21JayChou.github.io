@@ -1,0 +1,316 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "sky",
+    "bounds": [
+      36,
+      205,
+      163,
+      275
+    ],
+    "id_bounds": [
+      36,
+      170,
+      61,
+      205
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": " SpOrtS Home > Formula 1",
+    "bounds": [
+      147,
+      220,
+      681,
+      266
+    ],
+    "id_bounds": [
+      147,
+      185,
+      172,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Eddie Jordan: Former F1 team",
+    "bounds": [
+      48,
+      394,
+      939,
+      452
+    ],
+    "id_bounds": [
+      48,
+      359,
+      73,
+      394
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "owner dies aged 76",
+    "bounds": [
+      44,
+      480,
+      623,
+      540
+    ],
+    "id_bounds": [
+      44,
+      445,
+      69,
+      480
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "https://www.skysports.c0m/f1/news/12433/13332330",
+    "bounds": [
+      62,
+      730,
+      973,
+      770
+    ],
+    "id_bounds": [
+      62,
+      695,
+      87,
+      730
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "/eddie-jordan-former-f1-team-owner-dies-aged-76",
+    "bounds": [
+      62,
+      772,
+      878,
+      812
+    ],
+    "id_bounds": [
+      62,
+      737,
+      87,
+      772
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "android:id/chooser_action_row",
+      "android:id/chooser_copy_button",
+      "android:id/chooser_nearby_button"
+    ],
+    "text": [
+      "Copy",
+      "Nearby"
+    ],
+    "bounds": [
+      0,
+      862,
+      1080,
+      988
+    ],
+    "id_bounds": [
+      0,
+      827,
+      25,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "Button",
+    "resource_id": "android:id/chooser_copy_button",
+    "text": "Copy",
+    "bounds": [
+      287,
+      862,
+      518,
+      988
+    ],
+    "id_bounds": [
+      287,
+      827,
+      312,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "Button",
+    "resource_id": "android:id/chooser_nearby_button",
+    "text": "Nearby",
+    "bounds": [
+      560,
+      862,
+      793,
+      988
+    ],
+    "id_bounds": [
+      560,
+      827,
+      585,
+      862
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "Sky Sports: Eddie Jordan: Former F1",
+    "bounds": [
+      107,
+      1088,
+      951,
+      1136
+    ],
+    "id_bounds": [
+      107,
+      1053,
+      132,
+      1088
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "team owner dies aged 76",
+    "bounds": [
+      103,
+      1150,
+      695,
+      1198
+    ],
+    "id_bounds": [
+      103,
+      1115,
+      153,
+      1150
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "No recommended people to share with",
+    "bounds": [
+      224,
+      1444,
+      860,
+      1484
+    ],
+    "id_bounds": [
+      224,
+      1409,
+      274,
+      1444
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "Drive",
+    "bounds": [
+      902,
+      1863,
+      986,
+      1907
+    ],
+    "id_bounds": [
+      902,
+      1828,
+      952,
+      1863
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Messages",
+    "bounds": [
+      597,
+      1866,
+      751,
+      1904
+    ],
+    "id_bounds": [
+      597,
+      1831,
+      647,
+      1866
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "Bluetooth",
+    "bounds": [
+      66,
+      1868,
+      197,
+      1902
+    ],
+    "id_bounds": [
+      66,
+      1833,
+      116,
+      1868
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "Gmail",
+    "bounds": [
+      363,
+      1870,
+      447,
+      1900
+    ],
+    "id_bounds": [
+      363,
+      1835,
+      413,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

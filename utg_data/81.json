@@ -1,0 +1,350 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "An official EU website",
+    "bounds": [
+      97,
+      192,
+      455,
+      226
+    ],
+    "id_bounds": [
+      97,
+      157,
+      122,
+      192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "How do you know?",
+    "bounds": [
+      488,
+      194,
+      830,
+      228
+    ],
+    "id_bounds": [
+      488,
+      159,
+      513,
+      194
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Q",
+    "bounds": [
+      827,
+      337,
+      888,
+      383
+    ],
+    "id_bounds": [
+      827,
+      302,
+      852,
+      337
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "eurostat",
+    "bounds": [
+      42,
+      338,
+      405,
+      392
+    ],
+    "id_bounds": [
+      42,
+      303,
+      67,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "Welcometo",
+    "bounds": [
+      89,
+      574,
+      663,
+      664
+    ],
+    "id_bounds": [
+      89,
+      539,
+      114,
+      574
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "Eurostat",
+    "bounds": [
+      91,
+      711,
+      497,
+      797
+    ],
+    "id_bounds": [
+      91,
+      676,
+      116,
+      711
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "ViewGroup",
+    "text": [
+      "Send feedback to Google"
+    ],
+    "content_desc": [
+      "Send feedback to Google",
+      "Close Feedback"
+    ],
+    "bounds": [
+      0,
+      794,
+      1080,
+      962
+    ],
+    "id_bounds": [
+      0,
+      759,
+      25,
+      794
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ImageButton",
+    "content_desc": "Close Feedback",
+    "bounds": [
+      0,
+      804,
+      147,
+      951
+    ],
+    "id_bounds": [
+      0,
+      769,
+      25,
+      804
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Welcome!",
+    "bounds": [
+      93,
+      1010,
+      250,
+      1046
+    ],
+    "id_bounds": [
+      93,
+      975,
+      118,
+      1010
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "We are constantly improving our product by listening to",
+    "bounds": [
+      48,
+      1124,
+      973,
+      1168
+    ],
+    "id_bounds": [
+      48,
+      1089,
+      73,
+      1124
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "your feedback.",
+    "bounds": [
+      47,
+      1174,
+      304,
+      1222
+    ],
+    "id_bounds": [
+      47,
+      1139,
+      97,
+      1174
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "Answer few simple questions, highlight the area of",
+    "bounds": [
+      52,
+      1256,
+      891,
+      1296
+    ],
+    "id_bounds": [
+      52,
+      1221,
+      102,
+      1256
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "concern on the screenshot & send it to us.",
+    "bounds": [
+      52,
+      1314,
+      756,
+      1348
+    ],
+    "id_bounds": [
+      52,
+      1279,
+      102,
+      1314
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "Some account & system information may be sent to Google,",
+    "bounds": [
+      52,
+      1412,
+      935,
+      1448
+    ],
+    "id_bounds": [
+      52,
+      1377,
+      102,
+      1412
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "subject to our Privacy Policy & Terms of Service. Go to Legal Help",
+    "bounds": [
+      50,
+      1454,
+      1020,
+      1494
+    ],
+    "id_bounds": [
+      50,
+      1419,
+      100,
+      1454
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "to report illegal content.",
+    "bounds": [
+      52,
+      1496,
+      409,
+      1536
+    ],
+    "id_bounds": [
+      52,
+      1461,
+      102,
+      1496
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "Manage your Account & system information",
+    "bounds": [
+      53,
+      1570,
+      770,
+      1624
+    ],
+    "id_bounds": [
+      53,
+      1535,
+      103,
+      1570
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "Button",
+    "text": "Get Started",
+    "bounds": [
+      53,
+      1642,
+      1027,
+      1768
+    ],
+    "id_bounds": [
+      53,
+      1607,
+      103,
+      1642
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

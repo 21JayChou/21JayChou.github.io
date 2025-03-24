@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,84][1070,252]">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,84][1070,252]">
+      <node index="0" text="" resource-id="" class="android.widget.ListView" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,105][1070,231]">
+        <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,105][1070,231]">
+          <node index="0" text="" resource-id="com.google.android.apps.magazines:id/content" class="android.widget.LinearLayout" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[555,105][1070,231]">
+            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[597,138][1028,197]">
+              <node index="0" text="Refresh" resource-id="com.google.android.apps.magazines:id/title" class="android.widget.TextView" package="com.google.android.apps.magazines" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[597,138][1028,197]"/>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

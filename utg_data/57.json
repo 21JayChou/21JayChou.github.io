@@ -1,0 +1,364 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Refresh",
+    "bounds": [
+      596,
+      146,
+      746,
+      190
+    ],
+    "id_bounds": [
+      596,
+      111,
+      621,
+      146
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "Full Coverage",
+    "bounds": [
+      145,
+      220,
+      401,
+      268
+    ],
+    "id_bounds": [
+      145,
+      185,
+      170,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Renewable energy sources",
+    "bounds": [
+      61,
+      300,
+      848,
+      364
+    ],
+    "id_bounds": [
+      61,
+      265,
+      86,
+      300
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "account for 47% of EU",
+    "bounds": [
+      57,
+      378,
+      713,
+      436
+    ],
+    "id_bounds": [
+      57,
+      343,
+      82,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "electricity",
+    "bounds": [
+      57,
+      454,
+      364,
+      520
+    ],
+    "id_bounds": [
+      57,
+      419,
+      82,
+      454
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "European Commission",
+    "bounds": [
+      58,
+      660,
+      439,
+      694
+    ],
+    "id_bounds": [
+      58,
+      625,
+      83,
+      660
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a back arrow icon located at the top left corner of the screen. It is black in color and has a simple, universally recognizable shape.",
+      "function": "Navigate back to the previous page"
+    }
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "Electricity from renewable sources",
+    "bounds": [
+      54,
+      720,
+      737,
+      760
+    ],
+    "id_bounds": [
+      54,
+      685,
+      79,
+      720
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a text link with the title of a news article. It is displayed in a bold, large font and is black in color.",
+      "function": "When clicked, it navigates to a detailed view of the news article, providing more information about the topic."
+    }
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "reaches 47% in 2024",
+    "bounds": [
+      50,
+      770,
+      459,
+      812
+    ],
+    "id_bounds": [
+      50,
+      735,
+      75,
+      770
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "20 hours ago",
+    "bounds": [
+      49,
+      934,
+      247,
+      974
+    ],
+    "id_bounds": [
+      49,
+      899,
+      74,
+      934
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": " European Commission",
+    "bounds": [
+      52,
+      1060,
+      439,
+      1102
+    ],
+    "id_bounds": [
+      52,
+      1025,
+      77,
+      1060
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "Electricity from renewable sources",
+    "bounds": [
+      56,
+      1126,
+      731,
+      1160
+    ],
+    "id_bounds": [
+      56,
+      1091,
+      106,
+      1126
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "reaches 47% in 2024",
+    "bounds": [
+      50,
+      1176,
+      457,
+      1216
+    ],
+    "id_bounds": [
+      50,
+      1141,
+      100,
+      1176
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "18 hours ago",
+    "bounds": [
+      45,
+      1336,
+      243,
+      1382
+    ],
+    "id_bounds": [
+      45,
+      1301,
+      95,
+      1336
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": " Informed Comment",
+    "bounds": [
+      52,
+      1466,
+      397,
+      1506
+    ],
+    "id_bounds": [
+      52,
+      1431,
+      102,
+      1466
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular button with a white background and black text that reads 'Refresh'. It is located in the top right corner of the screen.",
+      "function": "Triggers a refresh action to update the content displayed on the page."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "European CO2 Emissions keep",
+    "bounds": [
+      52,
+      1526,
+      647,
+      1576
+    ],
+    "id_bounds": [
+      52,
+      1491,
+      102,
+      1526
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular area with rounded corners, containing text that reads 'European CO2 Emissions keep Plummeting, as 47% of Electricity is Green'. The text is black on a white background.",
+      "function": "Open the selected article"
+    }
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "Plummeting, as 47% of Electricity is",
+    "bounds": [
+      48,
+      1576,
+      751,
+      1628
+    ],
+    "id_bounds": [
+      48,
+      1541,
+      98,
+      1576
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular area with rounded corners, containing text and an image. The text reads 'European CO2 Emissions keep Plummeting, as 47% of Electricity is Green' and is accompanied by an image of a house with solar panels.",
+      "function": "Open the selected article"
+    }
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "Green",
+    "bounds": [
+      49,
+      1630,
+      179,
+      1676
+    ],
+    "id_bounds": [
+      49,
+      1595,
+      99,
+      1630
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": " 5 days ago",
+    "bounds": [
+      45,
+      1742,
+      215,
+      1788
+    ],
+    "id_bounds": [
+      45,
+      1707,
+      95,
+      1742
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Following",
+    "bounds": [
+      412,
+      115,
+      666,
+      181
+    ],
+    "id_bounds": [
+      412,
+      80,
+      437,
+      115
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "Recentlyfollowed",
+    "bounds": [
+      54,
+      328,
+      310,
+      356
+    ],
+    "id_bounds": [
+      54,
+      293,
+      79,
+      328
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Library"
+    ],
+    "bounds": [
+      48,
+      378,
+      258,
+      656
+    ],
+    "id_bounds": [
+      48,
+      343,
+      73,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "Saved Stories"
+    ],
+    "bounds": [
+      258,
+      378,
+      468,
+      656
+    ],
+    "id_bounds": [
+      258,
+      343,
+      283,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "OK! magazine"
+    ],
+    "bounds": [
+      468,
+      378,
+      678,
+      656
+    ],
+    "id_bounds": [
+      468,
+      343,
+      493,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "POPTOPIC"
+    ],
+    "bounds": [
+      678,
+      378,
+      888,
+      656
+    ],
+    "id_bounds": [
+      678,
+      343,
+      703,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a red square with the letters 'pt' in white, representing the POPTOPIC logo.",
+      "function": "The component likely serves as a category or source selection button. Clicking on it transitions from a general following feed page to a specific content display page related to POPTOPIC, indicating that it filters or directs the user to content specifically from this source."
+    }
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/icon_frame",
+      "com.google.android.apps.magazines:id/icon_container",
+      "com.google.android.apps.magazines:id/icon_background",
+      "com.google.android.apps.magazines:id/circular_icon_disk_background",
+      "com.google.android.apps.magazines:id/circular_image_icon",
+      "com.google.android.apps.magazines:id/title"
+    ],
+    "text": [
+      "New York"
+    ],
+    "bounds": [
+      888,
+      378,
+      1080,
+      656
+    ],
+    "id_bounds": [
+      888,
+      343,
+      913,
+      378
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "Button",
+    "content_desc": "The Daily Mash",
+    "bounds": [
+      0,
+      735,
+      1080,
+      925
+    ],
+    "id_bounds": [
+      0,
+      700,
+      25,
+      735
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/cluster_follow_button",
+    "content_desc": "Unfollow",
+    "bounds": [
+      933,
+      788,
+      1017,
+      872
+    ],
+    "id_bounds": [
+      933,
+      753,
+      983,
+      788
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Science & Technology",
+      "Yesterday"
+    ],
+    "content_desc": [
+      "Yesterday",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      925,
+      1080,
+      1152
+    ],
+    "id_bounds": [
+      0,
+      890,
+      50,
+      925
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Yesterday"
+    ],
+    "content_desc": [
+      "Yesterday",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1025,
+      1080,
+      1152
+    ],
+    "id_bounds": [
+      53,
+      990,
+      103,
+      1025
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1041,
+      1080,
+      1136
+    ],
+    "id_bounds": [
+      987,
+      1006,
+      1037,
+      1041
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a three-dot menu icon located on the right side of the 'The Daily Mash' entry. It is circular with three vertical dots in a dark color.",
+      "function": "The component opens a menu with options to interact with the followed source, including saving for later, sharing, going to the source's page, hiding all stories from the source, sending feedback, reporting content, and finding more stories like this."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Young people should miss a penalty, says Southgate",
+      "18 hours ago"
+    ],
+    "content_desc": [
+      "18 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      1152,
+      1080,
+      1557
+    ],
+    "id_bounds": [
+      0,
+      1117,
+      50,
+      1152
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "18 hours ago"
+    ],
+    "content_desc": [
+      "18 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1430,
+      1080,
+      1557
+    ],
+    "id_bounds": [
+      53,
+      1395,
+      103,
+      1430
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1446,
+      1080,
+      1541
+    ],
+    "id_bounds": [
+      987,
+      1411,
+      1037,
+      1446
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false,
+    "summary": {
+      "description": "The component is a tab icon with a star symbol inside a diamond shape, labeled 'For you'.",
+      "function": "Switches the view from the 'Following' page to the 'For you' page, which displays personalized news content."
+    }
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true
+  },
+  {
+    "node_id": 20,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with the text 'Newsstand' below it. The icon features a stylized representation of a newsstand with vertical lines and a horizontal line at the top.",
+      "function": "The component switches the view from the 'Following' page to the 'Newsstand' page, which displays a grid of entertainment sources and suggested news sources."
+    }
+  }
+]

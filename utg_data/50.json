@@ -1,0 +1,215 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "Cookiebot",
+    "bounds": [
+      792,
+      276,
+      1027,
+      328
+    ],
+    "id_bounds": [
+      792,
+      241,
+      817,
+      276
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "by Usercentrics",
+    "bounds": [
+      848,
+      322,
+      1026,
+      356
+    ],
+    "id_bounds": [
+      848,
+      287,
+      873,
+      322
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "THISWEBSITEUSESCOOKIES",
+    "bounds": [
+      62,
+      484,
+      621,
+      518
+    ],
+    "id_bounds": [
+      62,
+      449,
+      87,
+      484
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "This website uses Cookies : Cookies help",
+    "bounds": [
+      57,
+      562,
+      828,
+      608
+    ],
+    "id_bounds": [
+      57,
+      527,
+      82,
+      562
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "customize content (language preferences), analyze",
+    "bounds": [
+      60,
+      632,
+      1011,
+      672
+    ],
+    "id_bounds": [
+      60,
+      597,
+      85,
+      632
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "traffic (statistics) and to offer functions needed to",
+    "bounds": [
+      62,
+      696,
+      1001,
+      730
+    ],
+    "id_bounds": [
+      62,
+      661,
+      87,
+      696
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "use social media on our site (marketing).",
+    "bounds": [
+      58,
+      754,
+      824,
+      800
+    ],
+    "id_bounds": [
+      58,
+      719,
+      83,
+      754
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Showdetails",
+    "bounds": [
+      685,
+      958,
+      915,
+      998
+    ],
+    "id_bounds": [
+      685,
+      923,
+      710,
+      958
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "Allow all cookies",
+    "bounds": [
+      391,
+      1120,
+      691,
+      1166
+    ],
+    "id_bounds": [
+      391,
+      1085,
+      416,
+      1120
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a red rectangular button with white text that reads 'Allow all cookies'.",
+      "function": "This component allows the user to accept all cookies on the website, which enables full functionality including content customization, traffic analysis, and social media features."
+    }
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "Customize",
+    "bounds": [
+      413,
+      1292,
+      612,
+      1338
+    ],
+    "id_bounds": [
+      413,
+      1257,
+      438,
+      1292
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "Use necessary cookies only",
+    "bounds": [
+      294,
+      1468,
+      782,
+      1512
+    ],
+    "id_bounds": [
+      294,
+      1433,
+      344,
+      1468
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

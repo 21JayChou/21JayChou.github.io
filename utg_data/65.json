@@ -1,0 +1,430 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.google.android.apps.magazines:id/search_button",
+    "content_desc": "Search",
+    "bounds": [
+      21,
+      63,
+      147,
+      231
+    ],
+    "id_bounds": [
+      21,
+      28,
+      46,
+      63
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/selected_account_disc",
+      "com.google.android.apps.magazines:id/og_selected_account_disc_apd",
+      "com.google.android.apps.magazines:id/og_apd_internal_image_view"
+    ],
+    "content_desc": [
+      "Signed in as 刘可 250618328@qq.com Account and settings."
+    ],
+    "bounds": [
+      933,
+      84,
+      1080,
+      210
+    ],
+    "id_bounds": [
+      933,
+      49,
+      958,
+      84
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "Headlines",
+    "bounds": [
+      411,
+      120,
+      669,
+      174
+    ],
+    "id_bounds": [
+      411,
+      85,
+      436,
+      120
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "LinearLayout",
+    "text": [
+      "Latest"
+    ],
+    "content_desc": [
+      "Latest"
+    ],
+    "bounds": [
+      0,
+      231,
+      114,
+      357
+    ],
+    "id_bounds": [
+      0,
+      196,
+      25,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "text": [
+      "World"
+    ],
+    "content_desc": [
+      "World"
+    ],
+    "bounds": [
+      114,
+      231,
+      304,
+      357
+    ],
+    "id_bounds": [
+      114,
+      196,
+      139,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "text": [
+      "Business"
+    ],
+    "content_desc": [
+      "Business"
+    ],
+    "bounds": [
+      304,
+      231,
+      543,
+      357
+    ],
+    "id_bounds": [
+      304,
+      196,
+      329,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "text": [
+      "Sports"
+    ],
+    "content_desc": [
+      "Sports"
+    ],
+    "bounds": [
+      879,
+      231,
+      1080,
+      357
+    ],
+    "id_bounds": [
+      879,
+      196,
+      904,
+      231
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "Entertainment",
+    "bounds": [
+      585,
+      274,
+      840,
+      314
+    ],
+    "id_bounds": [
+      585,
+      239,
+      610,
+      274
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/image_container",
+      "com.google.android.apps.magazines:id/image",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Sky News",
+      "Former Eminem studio engineer charged with stealing and leaking unreleased music",
+      "2 hours ago"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      0,
+      431,
+      1080,
+      1374
+    ],
+    "id_bounds": [
+      0,
+      396,
+      25,
+      431
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "2 hours ago"
+    ],
+    "content_desc": [
+      "2 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      53,
+      1279,
+      1080,
+      1374
+    ],
+    "id_bounds": [
+      53,
+      1244,
+      78,
+      1279
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      987,
+      1279,
+      1080,
+      1374
+    ],
+    "id_bounds": [
+      987,
+      1244,
+      1037,
+      1279
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/card_content",
+      "com.google.android.apps.magazines:id/source_icon_container",
+      "com.google.android.apps.magazines:id/rect_icon",
+      "com.google.android.apps.magazines:id/title",
+      "com.google.android.apps.magazines:id/time",
+      "com.google.android.apps.magazines:id/more_button"
+    ],
+    "text": [
+      "Detroit Free Press",
+      "Former Eminem studio employee charged by FBI after online leak of unreleased songs",
+      "11 hours ago"
+    ],
+    "content_desc": [
+      "11 hours ago",
+      "More options"
+    ],
+    "bounds": [
+      48,
+      1390,
+      933,
+      1695
+    ],
+    "id_bounds": [
+      48,
+      1355,
+      98,
+      1390
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "Button",
+    "resource_id": "com.google.android.apps.magazines:id/more_button",
+    "content_desc": "More options",
+    "bounds": [
+      851,
+      1592,
+      933,
+      1671
+    ],
+    "id_bounds": [
+      851,
+      1557,
+      901,
+      1592
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_for_you",
+      "com.google.android.apps.magazines:id/tab_ic_for_you",
+      "com.google.android.apps.magazines:id/tab_for_you_text"
+    ],
+    "text": [
+      "For you"
+    ],
+    "bounds": [
+      0,
+      1626,
+      270,
+      1794
+    ],
+    "id_bounds": [
+      0,
+      1591,
+      50,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": true,
+    "summary": {
+      "description": "The component is a rectangular icon with a white background and a black star symbol inside it. Below the icon, there is text that reads 'For you'.",
+      "function": "The component functions as a navigation tab to switch from the entertainment news section to the personalized news section, which displays top stories curated for the user."
+    }
+  },
+  {
+    "node_id": 14,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_headlines",
+      "com.google.android.apps.magazines:id/tab_ic_headlines",
+      "com.google.android.apps.magazines:id/tab_headlines_text"
+    ],
+    "text": [
+      "Headlines"
+    ],
+    "bounds": [
+      270,
+      1626,
+      540,
+      1794
+    ],
+    "id_bounds": [
+      270,
+      1591,
+      320,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_following",
+      "com.google.android.apps.magazines:id/tab_ic_following",
+      "com.google.android.apps.magazines:id/ic_following",
+      "com.google.android.apps.magazines:id/tab_following_text"
+    ],
+    "text": [
+      "Following"
+    ],
+    "bounds": [
+      540,
+      1626,
+      810,
+      1794
+    ],
+    "id_bounds": [
+      540,
+      1591,
+      590,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "ViewGroup",
+    "resource_id": [
+      "com.google.android.apps.magazines:id/tab_store",
+      "com.google.android.apps.magazines:id/tab_ic_newsstand",
+      "com.google.android.apps.magazines:id/tab_store_text"
+    ],
+    "text": [
+      "Newsstand"
+    ],
+    "bounds": [
+      810,
+      1626,
+      1080,
+      1794
+    ],
+    "id_bounds": [
+      810,
+      1591,
+      860,
+      1626
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]
